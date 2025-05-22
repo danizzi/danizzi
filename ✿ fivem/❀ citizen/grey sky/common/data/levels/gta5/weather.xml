@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- nekz-->
+<CContentsOfWeatherXmlFile>
+  <WeatherTypes>
+  <Item>
+    <Name>EXTRASUNNY</Name>
+    <TimeCycleFilename>COMMON:/DATA/TIMECYCLE/W_EXTRASUNNY.XML</TimeCycleFilename>
+    <CloudSettingsName>LIGHTclouds</CloudSettingsName>
+  </Item>
+  </WeatherTypes>
+  <WeatherCycles>
+  <Item>
+    <CycleName>EXTRASUNNY</CycleName>
+  </Item>
+  </WeatherCycles>
+</CContentsOfWeatherXmlFile>
