@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CGrassScalingParams_AllLODs>
+  <AllLods>
+    <Item>
+      <distanceMultiplier value="0.000000" />
+      <densityMultiplier value="0.000000" />
+    </Item>
+    <Item>
+      <distanceMultiplier value="0.000000" />
+      <densityMultiplier value="0.000000" />
+    </Item>
+    <Item>
+      <distanceMultiplier value="0.000000" />
+      <densityMultiplier value="0.000000" />
+    </Item>
+  </AllLods>
+</CGrassScalingParams_AllLODs>

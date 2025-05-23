@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<timecycle_modifier_data version="1.000000">
+  <modifier name="nextgen" numMods="5" userFlags="0">
+    <postfx_motionblurlength>1.000 1.000</postfx_motionblurlength>
+    <postfx_tonemap_filmic_a>0.220 0.000</postfx_tonemap_filmic_a>
+    <lens_dist_coeff>-0.040 0.000</lens_dist_coeff>
+    <lens_dist_cube_coeff>-0.020 0.000</lens_dist_cube_coeff>
+    <chrom_aberration_coeff>0.010 0.000</chrom_aberration_coeff>
+    <chrom_aberration_coeff2>-0.005 0.000</chrom_aberration_coeff2>
+  </modifier>
+  <modifier name="StreetLightingJunction" numMods="0" userFlags="0">
+  </modifier>
+  <modifier name="StreetLightingtraffic" numMods="0" userFlags="0">
+  </modifier>
+  <modifier name="StreetLighting" numMods="0" userFlags="0">
+  </modifier>
+  <modifier name="INT_streetlighting" numMods="0" userFlags="0">
+  </modifier>
+  <modifier name="underwater" numMods="115" userFlags="1">
+  </modifier>
+  <modifier name="underwater_deep" numMods="81" userFlags="1">
+  </modifier>
+</timecycle_modifier_data>

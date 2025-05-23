@@ -1,0 +1,801 @@
+8.00
+
+ENTITYFX_START
+
+
+
+
+
+
+######################################################################################################################################################################################################################################################################################
+#																																																													                                 #
+#																										CREATION THRESHOLDS -------------------------------------------------->		EVOLUTION INFO --------------------------->						TRIGGERED AMBIENT EFFECTS -----> #	
+#																								IGNORE	ALWAYS	SUN			RAIN		WIND		TEMPERATURE		TIME OF DAY										 TEMP EVO		NIGHT_PROB						TIME             #
+# TAG							PTFX_ASSET					FX_NAME								ROT				THRESH		THRESH		THRESH		MIN		MAX		MIN		MAX		RAIN	WIND	MAX_WIND_EVO	MIN		MAX		MULT			IS_TRIG		MIN		MAX	         #
+#																																																													                                 #
+######################################################################################################################################################################################################################################################################################
+																												
+ENTITYFX_AMBIENT_PTFX_START																						
+																												
+AMB_ABATTOIR_ACID_BATH			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_ABATTOIR_CARCASS_DRIP		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_ABATTOIR_SAW_BLOOD			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_BARREL_FIRE					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_BEACH_CAMPFIRE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_BUBBLE_STREAM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_BUTTERFLYS					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CANDLE_FLAME				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CIG_SMOKE_LINGER			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CH2_FARM_FIRE_DBLE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_CH2_FARM_FIRE_U_L			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CH2_FARM_FIRE_U_S			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CH2_FARM_FIRE_L_L_L			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CH2_FARM_RESI_DBLE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CH2_FARM_SMOKE_DBLE 		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_CLUCK_BATH_STEAM			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_COLD_AIR_FLOOR				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_COLD_AIR_VENT				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_COCKROACHES					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DRAIN_WATER					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_DRY_ICE_AREA				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DRY_ICE_VENT				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DUST_DEVIL_RURAL_LRG		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DUST_DEVIL_RURAL_SMA		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DUST_DEVIL_URBAN_LRG		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DUST_DEVIL_URBAN_SMA		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_DUST_MOTES					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_ELECTRIC_CRACKLE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_L			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_M			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FALLING_LEAVES_PALM			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_PINE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_FICUS		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_OAK			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_CHERRY_BLOSSOM		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FALLING_LEAVES_S			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_FIRE_DRIP				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_FIRE_FOGBALL			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_FOGBALL			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FBI_SMOKE_LINGER_LT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_LINGER_HVY		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_LAND_LT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_LAND_MED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FBI_SMOKE_LAND_HVY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_STAIR_SMOKE_GATHER		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_RAMP_LT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_RAMP_MED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_RAMP_HVY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_DOOR_LT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_DOOR_MED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_DOOR_HVY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_EDGE_LIP			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_ELEC_CRACKLE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FBI_FIRE_SMALL				core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0	
+AMB_FBI_FIRE_LARGE				core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_FIRE_WALL_LARGE			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_FIRE_WALL_SMALL			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_FIRE_BEAM				core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_FIRE_DOOR				core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_FIRE_DOUBLEDOOR			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_CINDER					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOULDER_LARGE_3A		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOULDER_SMALL_3A		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FBI_SMOULDER_LARGE_3B		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOULDER_SMALL_3B		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMOKE_CREEP				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_FALLING_DEBRIS			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																										
+AMB_FBI_FIRE_SMOKE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_SMALL_FLAMES			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_SPARK_LIVE_WIRES		core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_FBI_GROUND_DEBRIS			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FBI_FALLING_DUST			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FIRE_GASWORKS				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FIRE_RING 					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FLY_SWARM					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FLY_ZAPPED					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNDRY_ARC_FURNACE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_OWENSHEPARD_FOGBALL			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNDRY_FOGBALL				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FOUNDRY_DUST				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNDRY_MOLTEN_POUR			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																										
+AMB_FOUNDRY_MOLTEN_STEAM		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNDRY_MOLTEN_HAZE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNTAIN_DOUBLE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_FOUNTAIN_MANSION2			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNTAIN_ARCADIUS			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNTAIN_RODEO				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_FOUNTAIN_POUR				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_GENERATOR_SMOKE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_INSECT_SWARM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_INSECT_PLANE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_INT_FIREPLACE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_INT_WATERFALL_RUNOFF		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_INT_WATERFALL_SPLASH		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_JACUZZI						core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_JOSH3_SMALL_HOUSE_FIRES		scr_josh3														-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_JOSH3_HOUSE_SMOKED			scr_josh3														-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_MACHINE_EXHAUST_THICK		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_MACHINE_EXHAUST_THIN		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_MOTHS						core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_MOTHS_CUPBOARD				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_MOTHS_NIGHTTIME				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PAL_HELI_EXPLOSION			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PAL_HELI_SILT				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_PAL_HELI_S_FIRE				core															1		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_PAL_HELI_SPARK_WIRES		core															1		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_PAL_HELI_WATER				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_FAM3_DUST_MOTES			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_FINALE1_FIRE			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_RAY_FINALE1_PETROL			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_RAY_FBI5A_LIGHT_DOOR		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_PALETO_GAS_PLUME		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_PALETO_GAS_PLUME_L		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_PALETO_GAS_FLAMES		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_PROLOGUE_ELEC_CRACKLE	core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+								
+AMB_RAY_SHIPWRECK_BUBBLES		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_SHIPWRECK_OIL			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_RAY_SHIPWRECK_FIRE			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_RAY_FINALE_VAULT_HAZE		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAY_FINALE_VAULT_SPARKS		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PALETO_GAS_WINDOW_FIRE		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PEEING						core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PRO_BDOOR_WATER_DRIP		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																																										   							
+AMB_PROLOGUE_ELECTRICALS		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PROLOGUE_SPRINKLER_ON		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_PROLOGUE_SPRINKLER_OFF		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RIVER_MIST_GEN				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RIVER_SPLASH_GEN			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RIVER_FLOATING_DEBRIS		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SEWER_DRIPS_LG				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SEWER_DRIPS_MED				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SEWER_DRIPS_SM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_CHICKEN				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_FACTORY				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_FOUNDRY				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_SMOKE_FACTORY_WHITE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_FOUNDRY_WHITE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_GASWORKS				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_GEN_FACTORY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SMOKE_SCRAPYARD				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_DIRECTED				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SNOW_MIST_BASE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SNOW_MIST_UPPER				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SOL1_PLANE_WRECK			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPARKING_WIRES				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_SPARKING_WIRES_SMALL		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_CITY_1AM-5AM		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_CITY_2PM-4PM		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_CITY_7AM-11AM		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_CROP				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_GOLF				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																					
+AMB_STEAM_PIPE_HVY				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_SPRINKLER_INT_ON			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																							
+AMB_SPRINKLER_INT_OFF			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_PIPE_LGT				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_STEAM_VENT_PRISON			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_VENT_OPEN_HVY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_VENT_OPEN_LGT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_VENT_ROUND			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STEAM_VENT_RND_HVY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_DUST_DROP			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_FALLING_DEBRIS		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_RUBBLE_DROP			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_VENT_SMOKE			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TNL_BUBBLES_LGE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_TNL_BUBBLES_SML				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TORCH_FIRE					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																							
+AMB_TORCH_FIRE_NIGHT			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0																									
+AMB_TRAIN_WATER_WASH			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TREV1_METH_FIRES			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TREV1_TRAILER_SPLASH_F		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TREV1_TRAILER_SPLASH_S		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TAP_DRIP					core 															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TROPICAL_FISH_YELLOW		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TROPICAL_FISH_GOLD			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_TROPICAL_FISH_BLUE			core     														-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_TROPICAL_FISH_STRIP			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_VENT_HAZE_LG				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_VENT_HAZE_SM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_DRIPS_LG				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_DRIPS_MED				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_DRIPS_SM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_TOP				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_PNT_SPLASH		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_BASE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_WATERFALL_POOL				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_ROOF_DRIPS			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0	
+AMB_WATER_ROOF_DRIPS_SHORT		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0	
+AMB_WATER_ROOF_POUR_SHORT		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0	
+AMB_WATER_ROOF_POUR_LONG		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_DUST					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0	
+AMB_WIND_DUST_DIRECTED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_DUST_SWIRL				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_HAY					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_HAY_DIRECTED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_WIND_GRASS					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_GRASS_DIRECTED			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LEAVES					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LEAVES_DIRECTED		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LEAVES_SWIRL			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LEAVES_TREE_TOP		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LITTER					core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LITTER_DIRECTED		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LITTER_SWIRL			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WIND_LITTER_RANDOM			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_WIND_SAND_DUNE				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_SPLASH_SML		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_SPLASH_MED		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATERFALL_SPLASH_LRG		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_AREA_SPRAY			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_DIR_SPRAY				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_DIR_SPLASH			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_DIR_SPLASH_WIDE		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_AREA_SPRAY_HVY		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_RAPID_ROCK_DRIPS			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+								
+AMB_RAPID_DIR_SPLASH_LIGHT		core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_WOODCHIP_DROP	 	core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_STONER_WOODCHIP_FALLING	 	core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_PAL_HELI_SQ_FIRE		 	core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_PAL_HELI_L_FIRE			 	core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_PAL_HELI_H_FIRE				core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_PAL_HELI_EMBERS 			core															0		1		-1.0		-1.0		-1.0		-100	100		0		0		0		0		10.0			0.0		0.0		1.0				0			0.0		0.0
+AMB_INT_FIREPLACE_SML			core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_DRIPS_DAM				core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+AMB_WATER_SPLASHES			 	core															-1		-1		-1.0		-1.0		-1.0		-100	100		-1		-1		-1		-1		-1			   -1.0	   -1.0	   -1.0				-1		   -1.0	   -1.0
+
+#COUNT=221
+
+
+ENTITYFX_AMBIENT_PTFX_END
+
+
+#################################################################################################
+# TAG							PTFX_ASSET					FX_NAME								#
+#																								#
+#################################################################################################
+
+FRAGMENTFX_BREAK_PTFX_START
+
+BRK_BANKNOTES					core						
+BRK_BLOOD						core						
+BRK_CACTUS						core						
+BRK_CHAMPAGNE_CASE				core						
+BRK_COINS						core						
+BRK_CONCRETE					core						
+BRK_LAMPPOST_BASE				core						
+BRK_LAMPOST_CONCRETE			core						
+BRK_METAL_FRAG					core						
+BRK_SPARKING_WIRES				core						
+BRK_SHOT_STEAM					core   						
+
+BRK_GATE_SMOKE					core						
+BRK_STONE						core						
+BRK_TREE_LEAVES					core						
+BRK_TREE_TRUNK_BARK				core						
+BRK_UPROOTED					core   						
+BRK_WOOD_PLANKS					core						
+BRK_WOOD_SPLINTER				core						
+
+
+#COUNT=17
+FRAGMENTFX_BREAK_PTFX_END
+
+
+#############################################################################################################################
+#																															#
+# TAG							PTFX_ASSET					FX_NAME								COLL_PT	IMPETUS_THRESH		#
+#																										MIN		MAX			#
+#																															#
+#############################################################################################################################
+
+ENTITYFX_COLLISION_PTFX_START
+
+COL_BUSH_LEAVES					core															0		1800	7000
+COL_ELECTRICAL					core															0		1800	7000
+COL_FALLING_SNOW				core															0		1800	7000
+COL_GEN_TREE_DUST				core															0		15000	30000
+COL_LEAVES						core															0		1800	7000
+COL_ORANGES						core															0		1800	7000
+COL_PALM_LEAVES					core															0		15000	30000
+COL_ROCKS						core 															0		1800	7000
+COL_UPROOTED					core															0		1800	7000
+
+#COUNT=9
+ENTITYFX_COLLISION_PTFX_END
+
+
+#############################################################################################################################
+#																															#
+# TAG							PTFX_ASSET					FX_NAME								NO_TRIGGER_EXP_RANGE		#
+#																															#
+#############################################################################################################################
+
+FRAGMENTFX_DESTROY_PTFX_START
+	
+DST_BOX_NOODLE					core															4.0
+DST_BREAD						core															3.0
+DST_CACTUS						core															0.0
+DST_CERAMICS					core															5.0
+DST_CIG_PACKETS					core															4.0
+DST_CHICK_CARCASS				core															4.0
+DST_CONCRETE					core															0.0
+DST_CONCRETE_LARGE				core															0.0
+DST_CRISP_BAGS					core															5.0
+DST_DONUTS						core															3.0
+						
+DST_DUST						core															0.0
+DST_EGG_MULCH					core															3.0
+DST_ELECTRIC_CRACKLE			core															1.0
+DST_ELECTRICAL					core															1.0
+DST_FOAM_EXTINGUISHER			core															2.0
+DST_GEN_CARDBOARD				core															4.0
+DST_GEN_CHOC					core															4.0
+DST_GEN_FOOD					core															4.0
+DST_GEN_GOBSTOP					core															6.0
+DST_INFLATE_BALL				core															2.0
+						
+DST_INFLATE_BALL_CLR			core															2.0
+DST_INFLATE_LILO				core															2.0
+DST_INFLATE_RING				core															2.0
+DST_GEN_LIQUID_BURST			core															5.0
+DST_GEN_PAPER					core															5.0
+DST_GEN_PLASTIC_CONT			core															5.0
+DST_GEN_WATER_SPRAY				core															5.0
+DST_GLASS_BOTTLES				core															5.0
+DST_GLASS_BULB					core															5.0
+DST_HOBO_TROLLEY				core															3.0
+						
+DST_LAMPOST_CONCRETE			core															0.0
+DST_LITTER						core															0.0
+DST_MAIL						core															3.0
+DST_METAL_CANISTER				core															0.0
+DST_METAL_FRAG					core															0.0
+DST_NEWSPAPER					core															5.0
+DST_OFFICE_PAPER				core															5.0
+DST_PAINT_CANS					core															5.0
+DST_PINEAPPLE					core															4.0
+DST_PLANT_LEAVES				core															0.0
+						
+DST_PUMPKIN						core															0.0
+DST_RUBBISH						core															0.0
+DST_ROCKS						core															0.0
+DST_ROCKS_SMALL					core															0.0
+DST_SHOP_CERAMICS				core															2.0
+DST_SHOP_FOAM_EXTING			core															0.0
+DST_SHOP_GLASS_BOTTLES			core															4.0
+DST_SHOP_PLASTIC_CONT			core															4.0
+DST_SNOW_ON_TOMBS				core															0.0
+DST_SPARKING_WIRES				core															0.0
+						
+DST_SWEET_BOXES					core															4.0
+DST_UPHOLSTREY					core															5.0
+DST_UPROOTED					core															4.0
+DST_WET_SAND					core															0.0
+DST_WOOD_CHUNKY					core															0.0
+DST_WOOD_STRUCTURES				core															0.0
+DST_WOOD_SPLINTER				core															0.0
+
+#COUNT=57
+FRAGMENTFX_DESTROY_PTFX_END
+
+
+#############################################################################################################################
+#																															#
+# TAG							PTFX_ASSET					FX_NAME								COLL_PT						#
+#																															#
+#############################################################################################################################
+
+ENTITYFX_SHOT_PTFX_START
+
+SHT_BEER_CONTAINERS				core															1
+SHT_BLOOD						core															1
+SHT_BUSH_FOLIAGE				core															1
+SHT_CACTUS						core															1
+SHT_CARDBOARD					core															1
+SHT_DUST						core															1
+SHT_ELECTRICAL_BOX				core															1
+SHT_ELECTRICAL_FIRE				core															1
+SHT_FEATHERS					core															1
+SHT_FIRE_EXTINGUISHER			core															1
+							
+SHT_FLAME						core															1
+SHT_GLOOPY_LIQUID				core															1
+SHT_MOLTEN_LIQUID				core															1
+SHT_OIL							core															1
+SHT_PAINT_CANS					core															1
+SHT_PAPER_BAILS					core															1
+SHT_PETROL						core															1
+SHT_PETROL_FIRE					core															1
+SHT_RUBBISH_BAGS				core															1
+SHT_SHOP_BEER_CONT				core															1
+							
+SHT_SPARKING_WIRES				core													
+SHT_STEAM						core															1
+SHT_TELEGRAPH_POLE				core															1
+SHT_WATER						core															1
+SHT_WATER_EXTINGUISHER			core															1
+SHT_WATER_TOWER					core															1
+SHT_BEER_BARREL					core															1
+
+
+#COUNT=27
+ENTITYFX_SHOT_PTFX_END
+
+
+#################################################################################################
+#																								#
+# TAG							PTFX_ASSET					FX_NAME								#
+#																								#
+#################################################################################################
+
+ENTITYFX_ANIM_PTFX_START
+
+ANM_CIG_SMOKE_CAR				core						
+ANM_CIG_EXHALE_MTH_CAR			core						
+ANM_CIG_EXHALE_NSE_CAR			core						
+ANM_CIG_EXHALE_MTH				core						
+ANM_CIG_EXHALE_NSE				core						
+ANM_CIG_SMOKE					core						
+ANM_ANIMAL_GRAZE				core						
+ANM_BUM_WASH_MIST				core						
+ANM_BUM_WASH_SCOOP				core						
+
+ANM_BBQ							core						
+ANM_BLOWN_RADIATOR				core						
+ANM_FISH_BREATH_BUBBLES			core						
+ANM_FISH_FLEE_BUBBLES			core						
+ANM_HEN_FLEE					core						
+ANM_LITTER_SWEEPING				core						
+ANM_DUSTY_HANDS					core						
+ANM_GARDNER_PLANT				core						
+ANM_LEAF_BLOWER					core						
+ANM_PNEUMATIC_DRILL				core						
+
+ANM_SML_ANIMAL_GRAZE			core						
+ANM_WELDER						core						
+ANM_PAPARAZZI_FLASH				core						
+
+ANM_SNOT_BLOW					core						
+
+#COUNT=23
+ENTITYFX_ANIM_PTFX_END
+
+
+#################################################################################################
+#																								#
+# TAG							PTFX_ASSET					FX_NAME								#
+#																								#
+#################################################################################################
+
+ENTITYFX_RAYFIRE_PTFX_START
+
+# RAYFIRE VFX [ARMENIAN2 - SCAFFOLDING COLLAPSE]
+RAY_SCAF_DUST_CLOUDS			des_scaffolding				
+RAY_SCAF_EXPLOSION				des_scaffolding				
+RAY_SCAF_FIRE_TRAILS			des_scaffolding				
+RAY_SCAF_SPARK_BURSTS			des_scaffolding				
+RAY_SCAF_WOOD_FRAGS				des_scaffolding				
+RAY_SCAF_DUST_MOTES				des_scaffolding				
+
+
+# RAYFIRE VFX [ARMENIAN3 - CAR SHOWROOM WINDOW] 
+RAY_ARM3_WINDOW_BREAK			des_car_show_room			
+RAY_ARM3_WOOD_SPLINTER			des_car_show_room			
+RAY_ARM3_PAPER					des_car_show_room			
+RAY_ARM3_SPARKING_WIRES			des_car_show_room			
+
+
+# RAYFIRE VFX [CHINESE2 - FARMHOUSE BLAZE]
+RAY_CH2_FARM_CS_LIGHT			des_farmhouse				
+RAY_CH2_FARM_DUST_TERRAIN		des_farmhouse				
+RAY_CH2_FARM_EXP_WINDOW			des_farmhouse				
+RAY_CH2_FARM_EXP_PORCH_WINDOW	des_farmhouse				
+
+RAY_CH2_FARM_FIRE_DBLE			des_farmhouse				
+RAY_CH2_FARM_FIRE_U_L			des_farmhouse				
+RAY_CH2_FARM_FIRE_L_L_L			des_farmhouse				
+RAY_CH2_FARM_FIRE_LIGHT			des_farmhouse				
+RAY_CH2_FARM_RESI_DBLE			des_farmhouse				
+
+RAY_CH2_FARM_SMOKE_DBLE 		des_farmhouse				
+
+# RAYFIRE VFX [EXILE1 - BI PLANE CRASH]
+RAY_EX1_PLANE_SPARK_L			des_bi_plane				
+RAY_EX1_PLANE_BREAK_L			des_bi_plane				
+RAY_EX1_PLANE_SPARK_R			des_bi_plane				
+RAY_EX1_PLANE_BREAK_R			des_bi_plane				
+
+
+# RAYFIRE VFX [FAMILY2 - TV SMASH]
+RAY_FAM2_TV_SPARKS				des_tv_smash				
+
+# RAYFIRE VFX [FAMILY3 - STILTHOUSE COLLAPSE]
+RAY_FAM3_CONCRETE_FRAGS			des_stilthouse				
+RAY_FAM3_CREAKING_DUST			des_stilthouse				
+RAY_FAM3_DECK_FRACTURE			des_stilthouse				
+RAY_FAM3_TERRAIN_DUST			des_stilthouse				
+RAY_FAM3_WALL_GLASS				des_stilthouse				
+RAY_FAM3_WINDOWS				des_stilthouse				
+RAY_FAM3_WOOD_FRAGS				des_stilthouse				
+RAY_FAM3_DUST_CLOUD				des_stilthouse				
+RAY_FAM3_DUST_CLOUD_LINGER		des_stilthouse				
+RAY_FAM3_FALLING_LEAVES			des_stilthouse				
+RAY_FAM3_DUST_TRAILS			des_stilthouse				
+
+
+# RAYFIRE VFX [FAMILY4 - FRUIT BOWL]
+RAY_FAM4_FRUIT_BOWL				des_fruit_bowl				
+
+
+# RAYFIRE VFX [FBI2 - WINDOW SMASH]
+RAY_FBI2_WINDOW_BREAK			des_fib_glass				
+RAY_FBI2_GLASS_DROP				des_fib_glass				
+
+
+# RAYFIRE VFX [FBI4 - TRUCK SLIDE VS WALL]
+RAY_FBI4_TRUCK_SLAM				des_smash2					
+RAY_FBI4_WALL_DEBRIS			des_smash2					
+RAY_FBI4_WALL_DUST				des_smash2					
+RAY_FBI4_WALL_DUST_MOTE			des_smash2					
+RAY_FBI4_SPARKS_POINT			des_smash2					
+RAY_FBI4_SPARKS_LINE			des_smash2					
+RAY_FBI4_TERRAIN_DUST			des_smash2					
+
+
+# RAYFIRE VFX [Finale1 - KILL TREVOR]
+RAY_FINALE1_LIQUID_NITRO		des_finale					
+RAY_FINALE1_LIQUID_PETROL		des_finale					
+
+
+# RAYFIRE VFX [Finale1 - KILL TREVOR]
+RAY_FINALE1_EXPLOSION			des_tanker_crash			
+RAY_FINALE1_EXPLOSION_TRAILS	des_tanker_crash			
+RAY_FINALE1_PETROL_SPRAY		des_tanker_crash			
+
+
+# RAYFIRE VFX [PROLOGUE - BANK VAULT DOOR]
+RAY_PRO1_BOLT_SPARKS			des_vaultdoor				
+RAY_PRO1_CEILING_DEBRIS			des_vaultdoor				
+RAY_PRO1_CONCRETE_IMPACTS		des_vaultdoor				
+RAY_PRO1_FLOOR_SPARKS			des_vaultdoor				
+RAY_PRO1_FLOATING_CASH			des_vaultdoor				
+RAY_PRO1_LIGHT_GLASS 			des_vaultdoor				
+RAY_PRO1_SPARKING_WIRES			des_vaultdoor				
+RAY_PRO1_SPRINKLER_BURST		des_vaultdoor				
+RAY_PRO1_RESIDUAL_SMOKE			des_vaultdoor				
+RAY_PRO1_VAULT_EXPLOSION		des_vaultdoor				
+RAY_PRO1_WALL_SMASHED			des_vaultdoor				
+RAY_PRO1_DOOR_STEAM				des_vaultdoor				
+RAY_PRO1_WATER_DRIP				des_vaultdoor				
+
+
+# RAYFIRE VFX [PROLOGUE - BLAST DOOR]
+RAY_PRO_DOOR_CEILING_DEBRIS		des_prologue_door			
+RAY_PRO_DOOR_FIREBALL_LIGHT		des_prologue_door			
+RAY_PRO_DOOR_LIGHT_GLASS		des_prologue_door			
+RAY_PRO_DOOR_SPARKS				des_prologue_door			
+RAY_PRO_DOOR_SPRINKLER			des_prologue_door			
+RAY_PRO_DOOR_STEAM				des_prologue_door			
+##RAY_PRO_DOOR_EMBERS				des_prologue_door		
+
+
+# RAYFIRE VFX [PROLOGUE - TREE CRASH]
+RAY_PRO_TREE_CRASH				des_pro_tree_crash			
+RAY_PRO_TREE_CRASH_SNOW			des_pro_tree_crash			
+RAY_PRO_TREE_CRASH_SNOW_SLUSH	des_pro_tree_crash			
+
+# RAYFIRE VFX [RC:NIGEL2 - HOSPITAL DOORS]
+RAY_HOSPITAL_GLASS				des_hospitaldoors			
+
+
+# RAYFIRE VFX [THE AGENCY HEIST - CEILING COLLAPSE]
+RAY_FBI5A_CEILING_CABLE_BREAK	des_fib_ceiling				
+RAY_FBI5A_CEILING_DEBRIS		des_fib_ceiling				
+RAY_FBI5A_CEILING_IMPACTS		des_fib_ceiling				
+RAY_FBI5A_CEILING_SPRINKLER		des_fib_ceiling				
+RAY_FBI5A_CEILING_WIRES			des_fib_ceiling				
+
+
+# RAYFIRE VFX [THE AGENCY HEIST - DOOR EXPLOSION]
+RAY_FBI5A_DOOR_EXP				des_fib_door				
+	
+
+# RAYFIRE VFX [THE AGENCY HEIST - RAMP FLOOR COLLAPSE]
+RAY_FBI5A_RAMP_DUST_IMP			des_fib_floor				
+RAY_FBI5A_RAMP_EXPLOSION		des_fib_floor				
+RAY_FBI5A_RAMP_FRAGS			des_fib_floor				
+RAY_FBI5A_RAMP_METAL_IMP		des_fib_floor				
+
+
+# RAYFIRE VFX [THE AGENCY HEIST - STAIRWELL COLLAPSE]
+RAY_FBI5A_STAIRS_DUST_FILL		des_fibstairs				
+RAY_FBI5A_STAIRS_FRAGS			des_fibstairs				
+RAY_FBI5A_STAIRS_SILT_FALL		des_fibstairs				
+
+
+# RAYFIRE VFX [THE BIG JOB3B - DRILLING START]
+RAY_BIG_DRILL_START				des_bigjobdrill				
+RAY_BIG_DRILL_LOOP				des_bigjobdrill				
+RAY_BIG_DRILL_START_SPARKS		des_bigjobdrill				
+
+
+# RAYFIRE VFX [THE BIG JOB3B - DRILLING BREAK THROUGH]
+RAY_BIG_DRILL_CLOUD				des_bigjobdrill				
+RAY_BIG_DRILL_IBT				des_bigjobdrill				
+RAY_BIG_DRILL_TRAIL				des_bigjobdrill				
+RAY_BIG_DRILL_SPARKS			des_bigjobdrill				
+RAY_BIG_DRILL_GROUND_DUST		des_bigjobdrill				
+
+
+
+# RAYFIRE VFX [THE PALETO SCORE - PETROL STATION EXPLOSION]
+RAY_PALETO_GAS_DUST_TERRAIN		des_gas_station				
+RAY_PALETO_GAS_EXPLOSION		des_gas_station				
+RAY_PALETO_GAS_FLAMES			des_gas_station				
+RAY_PALETO_GAS_PLUME			des_gas_station				
+RAY_PALETO_GAS_PLUME_L			des_gas_station				
+RAY_PALETO_GAS_EXP_TILES		des_gas_station				
+RAY_PALETO_GAS_WINDOW_BREAK		des_gas_station				
+RAY_PALETO_GAS_WINDOW_FIRE		des_gas_station				
+RAY_PALETO_GAS_DEBRIS_TRAILS	des_gas_station				
+
+
+# RAYFIRE VFX [THE PALETO SCORE - HELICOPTER VS APARTMENT BLOCK]
+RAY_HELI_APRTMNT_EXP			des_apartment_block			
+RAY_HELI_APRTMNT_SILT			des_apartment_block			
+RAY_HELI_APRTMNT_SPRK_WRS		des_apartment_block			
+RAY_HELI_APRTMNT_WATER			des_apartment_block			
+RAY_HELI_APRTMNT_TRAIL			des_apartment_block			
+RAY_HELI_APRTMNT_S_FIRE			des_apartment_block			
+
+
+# RAYFIRE VFX [TREVOR1 - METH TRAILER]
+RAY_METH_TRAILER_EXP			des_methtrailer				
+RAY_METH_TRAILER_FIRES			des_methtrailer				
+RAY_METH_DUST_TERRAIN			des_methtrailer				
+
+
+# RAYFIRE VFX [DOCK HEIST A B - SHIPWRECK]
+RAY_SHIPWRECK_EXP				des_shipwreck				
+RAY_SHIPWRECK_EXP_UW			des_shipwreck				
+RAY_SHIPWRECK_EXP_WINDOW		des_shipwreck				
+RAY_SHIPWRECK_SMOKE_PLUME		des_shipwreck				
+RAY_SHIPWRECK_FIRE_WINDOW		des_shipwreck				
+RAY_SHIPWRECK_PIPE_IMPACTS		des_shipwreck				
+RAY_SHIPWRECK_SPARKS			des_shipwreck				
+RAY_SHIPWRECK_SPLASH			des_shipwreck				
+RAY_SHIPWRECK_SPLASH_S			des_shipwreck				
+RAY_SHIPWRECK_TRAILS			des_shipwreck				
+RAY_SHIPWRECK_WATER_CHURN		des_shipwreck				
+RAY_SHIPWRECK_WOOD_DEBRIS		des_shipwreck				
+
+
+# RAYFIRE VFX [EXILE3:DERAILED - TRAIN CRASH]
+RAY_TRAIN_DEBRIS				des_train_crash				
+RAY_TRAIN_DEBRIS2				des_train_crash				
+RAY_TRAIN_DUST					des_train_crash				
+RAY_TRAIN_IMPACT				des_train_crash				
+RAY_TRAIN_SPARKS				des_train_crash				
+RAY_TRAIN_GLASS					des_train_crash				
+RAY_TRAIN_SPARKS_TRAIL			des_train_crash				
+RAY_TRAIN_SMOKE					des_train_crash				
+RAY_TRAIN_GROUND_DUST			des_train_crash				
+RAY_TRAIN_SPLASH				des_train_crash				
+RAY_TRAIN_DUST_SILT				des_train_crash				
+RAY_TRAIN_WATER_WASH			des_train_crash				
+RAY_TRAIN_DEBRIS_SPLASH			des_train_crash				
+
+
+# RAYFIRE VFX [FAMILY3 - FRENCH DOORS]
+RAY_FAM3_GLASS_BREAK			des_french_doors			
+
+
+# RAYFIRE VFX [TREVOR3 - FRIENDS REUNITED]
+RAY_TRAILERPARK_EXP_L			des_trailerpark				
+RAY_TRAILERPARK_WINDOW			des_trailerpark				
+RAY_TRAILERPARK_FIRE			des_trailerpark				
+RAY_TRAILERPARK_DUST			des_trailerpark				
+
+#COUNT=153
+
+ENTITYFX_RAYFIRE_PTFX_END
+
+
+#####################################################################################################################
+#																													#
+# TAG							PTFX_ASSET					FX_NAME								SPEED_UP_THRESH	    #
+#																								MIN			MAX	    #
+#####################################################################################################################
+
+ENTITYFX_INWATER_PTFX_START
+
+WTR_ROCKS_RND_SPLASH			core															0.5	    	3.0
+WTR_ROCKS_WALL_SPLASH			core															0.5	    	3.0
+WTR_SEA_POLE_SPLASH				core															0.5	    	3.0
+
+
+#COUNT=3
+ENTITYFX_INWATER_PTFX_END
+
+
+#####################################################################################################################################################################################
+#												    																			<-------------------- PROBE ------------------->	#
+# TAG							DECALID	SIZEMIN	SIZEMAX	LIFEMIN	LIFEMAX	FADEIN	COL_TINT    ALPHA				  GROWTH	    NUM	<-- DIRECTION -->		  RADIUS		DIST    #
+#																				R   G	B   MIN		MAX			TIM MIN MAX			X		Y		Z		MIN		MAX				#
+#####################################################################################################################################################################################
+
+FRAGMENTFX_BREAK_DECAL_START
+
+#DB_TEST							9999	0.5		1.0		10.0	20.0	1.0		255 255	255 0.5		1.0			0.0 1.0 1.0	    1   0.0		0.0		-1.0	0.5		2.0		5.0
+
+#COUNT=0
+FRAGMENTFX_BREAK_DECAL_END
+
+
+#############################################################################################################################################################################################################
+#												    																			<-------------------- PROBE ------------------->							#
+# TAG							DECALID	SIZEMIN	SIZEMAX	LIFEMIN	LIFEMAX	FADEIN	COL_TINT    ALPHA				  GROWTH	    NUM	<-- DIRECTION -->		  RADIUS		DIST	COLL_PT	IMPULSE_THRESH  # 
+#																				R   G	B   MIN		MAX			TIM MIN MAX			X		Y		Z		MIN		MAX						MIN		MAX		#
+#############################################################################################################################################################################################################
+																			
+ENTITYFX_COLLISION_DECAL_START																	
+																				
+#DC_TEST							9999	0.5		1.0		10.0	20.0	1.0		255 255	255 0.5		1.0			0.0 1.0 1.0	    1   0.0		0.0		1.0		0.5		2.0		5.0		0		1800	7000	
+																				
+#COUNT=0																			
+ENTITYFX_COLLISION_DECAL_END																	
+
+
+#####################################################################################################################################################################################
+#												    																			<-------------------- PROBE ------------------->	#
+# TAG							DECALID	SIZEMIN	SIZEMAX	LIFEMIN	LIFEMAX	FADEIN	COL_TINT    ALPHA				  GROWTH	    NUM	<-- DIRECTION -->		  RADIUS		DIST    #
+#																				R   G	B   MIN		MAX			TIM MIN MAX			X		Y		Z		MIN		MAX				#
+#####################################################################################################################################################################################
+									
+FRAGMENTFX_DESTROY_DECAL_START							
+										
+#DD_TEST							9999	0.5		1.0		10.0	20.0	1.0		255 255	255 0.5		1.0			0.0 1.0 1.0	    1   0.0		0.0    -1.0		0.5		2.0		5.0
+
+#COUNT=0
+FRAGMENTFX_DESTROY_DECAL_END
+
+
+#############################################################################################################################################################################################
+#												    																			<-------------------- PROBE ------------------->			#
+# TAG							DECALID	SIZEMIN	SIZEMAX	LIFEMIN	LIFEMAX	FADEIN	COL_TINT    ALPHA				  GROWTH	    NUM	<-- DIRECTION -->		  RADIUS		DIST    COLL_PT	#
+#																				R   G	B   MIN		MAX			TIM MIN MAX			X		Y		Z		MIN		MAX						#
+#############################################################################################################################################################################################
+																			
+ENTITYFX_SHOT_DECAL_START																	
+																				
+#DS_TEST							9999	0.5		1.0		10.0	20.0	1.0		255 255	255 0.5		1.0			0.0 1.0 1.0	    1   0.0		0.0    -1.0		0.5		2.0		5.0		0	
+
+#COUNT=0
+ENTITYFX_SHOT_DECAL_END
+
+
+ENTITYFX_END

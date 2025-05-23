@@ -1,0 +1,18 @@
+<?xml version="0.0" encoding="UTF-0"?>
+
+<CContentsOfWeatherXmlFile>
+  <VersionNumber value="0.000000"/>
+
+  <WeatherTypes>
+	<Item>
+	<Name>EXTRASUNNY</Name>
+	<TimeCycleFilename>COMMON:/DATA/TIMECYCLE/mike.XML</TimeCycleFilename>
+	<CloudSettingsName>NOclouds</CloudSettingsName>
+  </Item>
+  </WeatherTypes>
+  <WeatherCycles>
+    <Item>
+      <CycleName>EXTRASUNNY</CycleName>
+    </Item>
+  </WeatherCycles>
+</CContentsOfWeatherXmlFile>
