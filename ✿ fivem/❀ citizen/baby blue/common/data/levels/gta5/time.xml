@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<time_data version="1.000000" mode="dynamic">
+  <suninfo sun_roll="122" sun_yaw="0"/>
+  <mooninfo moon_roll="-10" moon_wobble_freq="2" moon_wobble_amp="0.2" moon_wobble_offset="0.375"/>
+  <sample name="18:00" hour="18" duration="4" uw_tc_mod="underwater"/>
+  <region name="URBAN"/>
+</time_data>

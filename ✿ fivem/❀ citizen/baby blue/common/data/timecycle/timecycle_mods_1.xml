@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<timecycle_modifier_data version="1.000000">
+	<modifier name="lightpolution" numMods="0" userFlags="0" />
+	<modifier name="ReduceDrawDistanceMAP" numMods="0" userFlags="0" />
+	<modifier name="ReduceDrawDistance" numMods="0" userFlags="0" />
+	<modifier name="LightPollutionHills" numMods="0" userFlags="0" />
+	<modifier name="NOdirectLight" numMods="0" userFlags="0" />
+	<modifier name="ReduceSSAO" numMods="0" userFlags="0" />
+	<modifier name="pulse" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_high" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_med" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_low" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_verylow" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_silverlake" numMods="0" userFlags="0" />
+	<modifier name="WATER_refmap_venice" numMods="0" userFlags="0" />
+	<modifier name="jewel_gas" numMods="0" userFlags="2" />
+	<modifier name="VC_tunnel_entrance" numMods="0" userFlags="0" />
+	<modifier name="LIGHTSreduceFALLOFF" numMods="0" userFlags="0" />
+	<modifier name="prison_nightlight" numMods="0" userFlags="0" />
+	<modifier name="morebloom" numMods="0" userFlags="0" />
+	<modifier name="half_direct" numMods="0" userFlags="0" />
+	<modifier name="gorge_reflectionoffset" numMods="0" userFlags="0" />
+	<modifier name="gorge_reflectionoffset2" numMods="0" userFlags="0" />
+	<modifier name="ReduceDrawDistanceMission" numMods="0" userFlags="0"/>
+	<modifier name="nextgen" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="NG_first" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="whitenightlighting" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="motionblur" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="cloudzone" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="NoAmbientmult_interior" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="FullAmbientmult_interior" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="StreetLightingJunction" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="StreetLightingtraffic" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="INT_NoAmbientmult" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="INT_NoAmbientmult_art" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="INT_FullAmbientmult" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="INT_FULLAmbientmult_art" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="INT_FULLAmbientmult_both" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="INT_NoAmbientmult_both" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="underwater_deep_clear" numMods="4" userFlags="1">
+	</modifier>
+	<modifier name="underwater" numMods="97" userFlags="1">
+	</modifier>
+	<modifier name="underwater_deep" numMods="72" userFlags="1">
+	</modifier>
+	<modifier name="li" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="NoAmbientmult" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="superDARK" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="CAMERA_BW" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="Forest" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="micheal" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="TREVOR" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="FRANKLIN" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="Tunnel" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="carpark" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="NEW_abattoir" numMods="67" userFlags="0">
+	</modifier>
+	<modifier name="Vagos" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="cops" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="Bikers" numMods="28" userFlags="0">
+	</modifier>
+	<modifier name="BikersSPLASH" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="VagosSPLASH" numMods="21" userFlags="0">
+	</modifier>
+	<modifier name="CopsSPLASH" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="VAGOS_new_garage" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="VAGOS_new_hangout" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="NEW_jewel" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="frankilnsAUNTS_new" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="frankilnsAUNTS_SUNdir" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="StreetLighting" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="NEW_tunnels" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="NEW_yellowtunnels" numMods="55" userFlags="0">
+	</modifier>
+	<modifier name="NEW_tunnels_hole" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="NEW_tunnels_ditch" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="Paleto" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="new_bank" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="NEW_lesters" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="reducewaterREF" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="garage" numMods="12" userFlags="2">
+	</modifier>
+	<modifier name="NewMicheal" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="NewMichealupstairs" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="NewMichealstoilet" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="NewMichealgirly" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="WATER_port" numMods="51" userFlags="1">
+	</modifier>
+	<modifier name="WATER_salton" numMods="68" userFlags="1">
+	</modifier>
+	<modifier name="WATER_salton_bottom" numMods="37" userFlags="1">
+	</modifier>
+	<modifier name="WATER_river" numMods="57" userFlags="1">
+	</modifier>
+	<modifier name="WATER_resevoir" numMods="65" userFlags="1">
+	</modifier>
+	<modifier name="WATER_muddy" numMods="61" userFlags="1">
+	</modifier>
+	<modifier name="WATER_hills" numMods="61" userFlags="1"> 
+	</modifier>
+	<modifier name="WATER_silverlake" numMods="51" userFlags="1"> 
+	</modifier>
+	<modifier name="WATER_silty" numMods="60" userFlags="1">
+	</modifier>
+	<modifier name="FIB_interview" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="NEW_station_unfinished" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="cashdepot" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="cashdepotEMERGENCY" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="FrankilinsHOUSEhills" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="HicksbarNEW" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="SALTONSEA" numMods="59" userFlags="1">
+	</modifier>
+	<modifier name="TUNNEL_green" numMods="31" userFlags="4">
+	</modifier>
+	<modifier name="NewMicheal_night" numMods="24" userFlags="2">
+	</modifier>
+	<modifier name="WATER_shore" numMods="4" userFlags="1">
+	</modifier>
+	<modifier name="damage" numMods="11" userFlags="0">
+	</modifier>
+	<modifier name="hitped" numMods="2" userFlags="1">
+	</modifier>
+	<modifier name="dying" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="overwater" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="TUNNEL_yellow" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="buildingTOP" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="WATER_lab" numMods="89" userFlags="1">
+	</modifier>
+	<modifier name="cinema" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="fireDEPT" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="ranch" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="TUNNEL_white" numMods="36" userFlags="2">
+	</modifier>
+	<modifier name="mb" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="V_recycle_mainroom" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="V_recycle_dark" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="V_recycle_light" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="lightning_weak" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="lightning_strong" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="lightning_cloud" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="gunclubrange" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="Multipayer_spectatorCam" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="Sniper" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="scope_zoom_in" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="scope_zoom_out" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="crane_cam" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="Trevors_room" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="Hint_cam" numMods="16" userFlags="0">
+	</modifier>
+	<modifier name="venice_canal_tunnel" numMods="47" userFlags="0">
+	</modifier>
+	<modifier name="blackNwhite" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="projector" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="paleto_opt" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="warehouse" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="sleeping" numMods="10" userFlags="0">
+	</modifier>
+	<modifier name="INT_garage" numMods="19" userFlags="4">
+	</modifier>
+	<modifier name="crane_cam_cinematic" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="TUNNEL_orange" numMods="33" userFlags="2">
+	</modifier>
+	<modifier name="traffic_skycam" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="powerstation" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="SAWMILL" numMods="9" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_global_reduce" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_HD_orphan_reduce" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_HD_orphan_LOD_reduce" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_LOD_reduce" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_SLOD1_reduce" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_SLOD2_reduce" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_SLOD3_reduce" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="NewMicheal_upstairs" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="micheals_lightsOFF" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="telescope" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="WATER _lab_cooling" numMods="95" userFlags="1">
+	</modifier>
+	<modifier name="baseTONEMAPPING" numMods="16" userFlags="0">
+	</modifier>
+	<modifier name="new_stripper_changing" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="prologue_ending_fog" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="graveyard_shootout" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="INT_posh_hairdresser" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="V_strip_office" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="sunglasses" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="vespucci_garage" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="carpark_dt1_03" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="tunnel_id1_11" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="reducelightingcost" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="NOrain" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="downtown_polluted" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="morgue_dark" numMods="44" userFlags="0">
+	</modifier>
+	<modifier name="CS3_rail_tunnel" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="new_tunnels_entrance" numMods="47" userFlags="2">
+	</modifier>
+	<modifier name="spectator1" numMods="41" userFlags="0">
+	</modifier>
+	<modifier name="spectator2" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="spectator3" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="spectator4" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="spectator5" numMods="63" userFlags="0">
+	</modifier>
+	<modifier name="spectator6" numMods="43" userFlags="0">
+	</modifier>
+	<modifier name="spectator7" numMods="48" userFlags="0">
+	</modifier>
+	<modifier name="spectator8" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="spectator9" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="spectator10" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="INT_NOdirectLight" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="WATER_militaryPOOP" numMods="62" userFlags="1">
+	</modifier>
+	<modifier name="NEW_ornate_bank" numMods="43" userFlags="0">
+	</modifier>
+	<modifier name="NEW_ornate_bank_safe" numMods="46" userFlags="0">
+	</modifier>
+	<modifier name="NEW_ornate_bank_entrance" numMods="38" userFlags="0">
+	</modifier>
+	<modifier name="NEW_ornate_bank_office" numMods="46" userFlags="0">
+	</modifier>
+	<modifier name="LODmult_global_reduce_NOHD" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="interior_WATER_lighting" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="eyeINtheSKY" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="resvoire_reflection" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="NO_weather" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="prologue_ext_art_amb" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="prologue_shootout" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="heathaze" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="KT_underpass" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="INT_nowaterREF" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="carMOD_underpass" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="refit" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="NO_streetAmbient" numMods="1" userFlags="8">
+	</modifier>
+	<modifier name="NO_coronas" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="epsilion" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="WATER_refmap_poolside" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="FORdoron_delete" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="NO_fog_alpha" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="V_strip_nofog" numMods="28" userFlags="0">
+	</modifier>
+	<modifier name="METRO_Tunnels" numMods="59" userFlags="2">
+	</modifier>
+	<modifier name="METRO_Tunnels_entrance" numMods="31" userFlags="2">
+	</modifier>
+	<modifier name="METRO_platform" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="STRIP_stage" numMods="55" userFlags="2">
+	</modifier>
+	<modifier name="STRIP_office" numMods="30" userFlags="2">
+	</modifier>
+	<modifier name="STRIP_changing" numMods="30" userFlags="2">
+	</modifier>
+	<modifier name="INT_NO_fogALPHA" numMods="3" userFlags="2">
+	</modifier>
+	<modifier name="STRIP_nofog" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="INT_streetlighting" numMods="8" userFlags="2">
+	</modifier>
+	<modifier name="ch2_tunnel_whitelight" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="AmbientPUSH" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="SANDY_desert" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="ship_lighting" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="powerplant_nightlight" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="paleto_nightlight" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="militarybase_nightlight" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="sandyshore_nightlight" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="WATER_refmap_off" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="trailer_explosion_optimise" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="nervousRON_fog" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="DONT_overide_sunpos" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="gallery_refmod" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="multiplayer_ped_fight" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="ship_explosion_underwater" numMods="20" userFlags="1">
+	</modifier>
+	<modifier name="EXTRA_bouncelight" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="secret_camera" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="canyon_mission" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="gorge_reflection_gpu" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="subBASE_water_ref" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="poolsidewaterreflection2" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="CUSTOM_streetlight" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="ufo" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="ship_explosion_underwater" numMods="1" userFlags="1">
+	</modifier>
+	<modifier name="lab_none_exit" numMods="24" userFlags="2">
+	</modifier>
+	<modifier name="FinaleBankexit" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="prologue_reflection_opt" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="tunnel_entrance" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="tunnel_entrance_INT" numMods="1" userFlags="2">
+	</modifier>
+	<modifier name="id1_11_tunnel" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="reflection_correct_ambient" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="scanline_cam_cheap" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="scanline_cam" numMods="16" userFlags="0">
+	</modifier>
+	<modifier name="WATER_REF_malibu" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="carpark_dt1_02" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="FIB_interview_optimise" numMods="21" userFlags="2">
+	</modifier>
+	<modifier name="Prologue_shootout_opt" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="hangar_lightsmod" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="plane_inside_mode" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="eatra_bouncelight_beach" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="downtown_FIB_cascades_opt" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="jewel_optim" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="ufo_deathray" numMods="59" userFlags="0">
+	</modifier>
+	<modifier name="PORT_heist_underwater" numMods="5" userFlags="1">
+	</modifier>
+	<modifier name="TUNNEL_orange_exterior" numMods="17" userFlags="16">
+	</modifier>
+	<modifier name="hillstunnel" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="jewelry_entrance_INT" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="jewelry_entrance" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="jewelry_entrance_INT_fog" numMods="2" userFlags="2">
+	</modifier>
+	<modifier name="TUNNEL_yellow_ext" numMods="12" userFlags="16">
+	</modifier>
+	<modifier name="NEW_jewel_EXIT" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="services_nightlight" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="CS1_railwayB_tunnel" numMods="21" userFlags="6">
+	</modifier>
+	<modifier name="TUNNEL_green_ext" numMods="8" userFlags="16">
+	</modifier>
+	<modifier name="CAMERA_secuirity" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="CAMERA_secuirity_FUZZ" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="int_hospital_small" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="int_hospital_dark" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="plaza_carpark" numMods="27" userFlags="2">
+	</modifier>
+	<modifier name="gen_bank" numMods="27" userFlags="2">
+	</modifier>
+	<modifier name="nightvision" numMods="28" userFlags="0">
+	</modifier>
+	<modifier name="WATER_cove" numMods="110" userFlags="1">
+	</modifier>
+	<modifier name="glasses_Darkblue" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="glasses_VISOR" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="heist_boat" numMods="15" userFlags="2">
+	</modifier>
+	<modifier name="heist_boat_norain" numMods="16" userFlags="2">
+	</modifier>
+	<modifier name="heist_boat_engineRoom" numMods="15" userFlags="2">
+	</modifier>
+	<modifier name="buggy_shack" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="mineshaft" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="glasses_Scuba" numMods="9" userFlags="0">
+	</modifier>
+	<modifier name="mugShot" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="mugShot_lineup" numMods="47" userFlags="0">
+	</modifier>
+	<modifier name="Glasses_BlackOut" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="winning_room" numMods="44" userFlags="2">
+	</modifier>
+	<modifier name="MPApartHigh_palnning" numMods="56" userFlags="2">
+	</modifier>
+	<modifier name="v_dark" numMods="67" userFlags="0">
+	</modifier>
+	<modifier name="vehicle_subint" numMods="10" userFlags="0">
+	</modifier>
+	<modifier name="Carpark_MP_exit" numMods="13" userFlags="0">
+	</modifier>
+	<modifier name="EXT_FULLAmbientmult_art" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="new_MP_Garage_L" numMods="45" userFlags="2">
+	</modifier>
+	<modifier name="fp_vig_black" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="fp_vig_brown" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="fp_vig_gray" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="fp_vig_blue" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="fp_vig_red" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="fp_vig_green" numMods="8" userFlags="0">
+	</modifier>
+	<modifier name="INT_trailer_cinema" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="heliGunCam" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="INT_smshop" numMods="38" userFlags="0">
+	</modifier>
+	<modifier name="INT_mall" numMods="48" userFlags="0">
+	</modifier>
+	<modifier name="Mp_Stilts" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="Mp_Stilts_gym" numMods="30" userFlags="2">
+	</modifier>
+	<modifier name="Mp_Stilts2" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="Mp_Stilts_gym2" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="MPApart_H_01" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MPApart_H_01_gym" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_Study" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_Bedroom" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_Bathroom" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_New" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_New_Bedroom" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_New_Bathroom" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_01_New_Study" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="INT_smshop_inMOD" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="NoPedLight" numMods="4" userFlags="0">
+	</modifier>
+	<modifier name="morgue_dark_ovr" numMods="45" userFlags="0">
+	</modifier>
+	<modifier name="INT_smshop_outdoor_bloom" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="INT_smshop_indoor_bloom" numMods="3" userFlags="2">
+	</modifier>
+	<modifier name="MP_H_02" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_04" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="Mp_Stilts2_bath" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="mp_h_05" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="mp_h_07" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="MP_H_06" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="mp_h_08" numMods="53" userFlags="0">
+	</modifier>
+	<modifier name="yacht_DLC" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="mp_exec_office_01" numMods="26" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_warehouse_01" numMods="32" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_02" numMods="27" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_03" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_04" numMods="27" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_05" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_06" numMods="27" userFlags="2">
+	</modifier>
+	<modifier name="mp_exec_office_03_blue" numMods="32" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_int01_garage" numMods="33" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_int01_transition" numMods="33" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_int01_small_rooms" numMods="35" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_int02_garage" numMods="23" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_int02_hangout" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="mp_bkr_int02_small_rooms" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware01" numMods="32" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware02_standard" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware02_upgrade" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware02_dry" numMods="22" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware03_basic" numMods="29" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware03_upgrade" numMods="28" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware04" numMods="23" userFlags="2">
+	</modifier>
+	<modifier name="mp_bkr_ware05" numMods="30" userFlags="2">
+	</modifier>
+	<modifier name="mp_lad_night" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="mp_lad_day" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="mp_lad_judgment" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="mp_imx_intwaremed" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_imx_intwaremed_office" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_imx_mod_int_01" numMods="30" userFlags="2">
+  </modifier>
+  <modifier name="IMpExt_Interior_02" numMods="57" userFlags="2">
+  </modifier>
+  <modifier name="ImpExp_Interior_01" numMods="55" userFlags="2">
+  </modifier>
+  <modifier name="impexp_interior_01_lift" numMods="56" userFlags="0">
+  </modifier>
+  <modifier name="IMpExt_Interior_02_stair_cage" numMods="57" userFlags="2">
+  </modifier>
+  <modifier name="mp_gr_int01_white" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_gr_int01_grey" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_gr_int01_black" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="grdlc_int_02" numMods="34" userFlags="2">
+  </modifier>
+  <modifier name="mp_nightshark_shield_fp" numMods="4" userFlags="0">
+  </modifier>
+  <modifier name="grdlc_int_02_trailer_cave" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_smg_int01_han" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_smg_int01_han_red" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_smg_int01_han_blue" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_smg_int01_han_yellow" numMods="33" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_in_sub" numMods="37" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_in_sub_no_reflection" numMods="36" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_base" numMods="37" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_base_dark" numMods="37" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_base_darkest" numMods="37" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_lab" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_lab_loading_bay" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_facility" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_facility_conference" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint1" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint2" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint3" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint4" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint5" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint6" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint7" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint8" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_01_tint9" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_facility2" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint1" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint2" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint3" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint4" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint5" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint6" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint7" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint8" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_tint9" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_02_hangar" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_silo" numMods="47" userFlags="2">
+  </modifier>
+  <modifier name="mp_x17dlc_int_silo_escape" numMods="48" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01" numMods="42" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01_entry" numMods="42" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01_office" numMods="40" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01_dancefloor" numMods="43" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01_dancefloor_OFF" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int01_garage" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int02" numMods="42" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint1" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint2" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint3" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint4" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint5" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint6" numMods="49" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint7" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint8" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="mp_battle_int03_tint9" numMods="41" userFlags="2">
+  </modifier>
+  <modifier name="Drone_FishEye_Lens" numMods="5" userFlags="0">
+  </modifier>
+  <modifier name="int_arena_Mod" numMods="34" userFlags="0">
+  </modifier>
+  <modifier name="int_arena_01" numMods="29" userFlags="0">
+  </modifier>
+  <modifier name="int_arena_VIP" numMods="29" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_VIP" numMods="31" userFlags="0">
+  </modifier>
+  <modifier name="int_arena_Mod_garage" numMods="29" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arena_theme_midday" numMods="13" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_morning" numMods="8" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_evening" numMods="33" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_night" numMods="32" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arena_theme_atlantis" numMods="93" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arena_theme_toxic" numMods="70" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_storm" numMods="76" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_sandstorm" numMods="74" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_saccharine" numMods="72" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_hell" numMods="73" userFlags="0">
+  </modifier>
+  <modifier name="MP_Arena_theme_scifi_night" numMods="32" userFlags="0">
+  </modifier>
+  <modifier name="dlc_casino_carpark" numMods="28" userFlags="2">
+  </modifier>
+  <modifier name="casino_mainfloor" numMods="77" userFlags="2">
+  </modifier>
+  <modifier name="casino_brightroom" numMods="73" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Casino_Garage" numMods="29" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_MBed" numMods="31" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_Bath" numMods="30" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_lobby" numMods="30" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_office" numMods="31" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_cinema" numMods="28" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_bar" numMods="32" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_spa" numMods="28" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_lounge" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_exec" numMods="32" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_apartment_changing" numMods="34" userFlags="2">
+  </modifier>
+  <modifier name="casino_managersoffice" numMods="75" userFlags="2">
+  </modifier>
+  <modifier name="casino_managementOff" numMods="81" userFlags="2">
+  </modifier>
+  <modifier name="casino_mainWhiteFloor" numMods="77" userFlags="2">
+  </modifier>
+  <modifier name="CasinoBathrooms" numMods="77" userFlags="2">
+  </modifier>
+  <modifier name="casino_managementlobby" numMods="81" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_barPARTY" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_colour1" numMods="10" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_colour0" numMods="9" userFlags="2">
+  </modifier>
+  <modifier name="NewMod" numMods="0" userFlags="0" />
+  <modifier name="MP_casino_apartment_colour2" numMods="9" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_barPARTY_0" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_barPARTY_2" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_apartment_barPARTY_01" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="Casino_Lightsoff" numMods="38" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Retro" numMods="34" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_BACK_office" numMods="42" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_BACK_Lobby" numMods="41" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_BACK_coridor" numMods="36" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_BACK_Security" numMods="35" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_BACK_BakSideRMs" numMods="35" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_BACK_Waste" numMods="48" userFlags="0">
+  </modifier>
+  <modifier name="MP_casino_BACK_Laundry" numMods="32" userFlags="2">
+  </modifier>
+  <modifier name="MP_casino_BACK_Changing" numMods="33" userFlags="0">
+  </modifier>
+  <modifier name="Mp_Heist3_Loading_MainRoom" numMods="26" userFlags="2">
+  </modifier>
+  <modifier name="Mp_Heist3_Loading_SecurityRoom" numMods="26" userFlags="2">
+  </modifier>
+  <modifier name="Mp_Heist3_Loading_Stairs" numMods="26" userFlags="2">
+  </modifier>
+  <modifier name="Mp_Heist3_Loading_Tunnel" numMods="27" userFlags="2">
+  </modifier>
+  <modifier name="Mp_Heist3_Utility_Room" numMods="26" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Hipster" numMods="34" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Derelict" numMods="35" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Tunnel" numMods="34" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Planning_Room" numMods="74" userFlags="2">
+  </modifier>
+  <modifier name="mp_heist3_lift_shaft" numMods="26" userFlags="2">
+  </modifier>
+  <modifier name="MP_Arcade_Planning_Pre" numMods="63" userFlags="2">
+  </modifier>
+  <modifier name="mp_casino_back_vault_rm" numMods="35" userFlags="2">
+  </modifier>
+  <modifier name="mp_arc_planning_entity_ambient" numMods="9" userFlags="2">
+  </modifier>
+  <modifier name="casino_main_floor_heist" numMods="77" userFlags="2">
+  </modifier>
+  <modifier name="mp_casino_back_staff_entrance" numMods="77" userFlags="0">
+  </modifier>
+  <modifier name="mp_casino_vault_vault" numMods="85" userFlags="2">
+  </modifier>
+  <modifier name="mp_casino_vault_corridor" numMods="86" userFlags="2">
+  </modifier>
+  <modifier name="mp_casino_vault_main" numMods="85" userFlags="2">
+  </modifier>
+  <modifier name="mp_casino_vault_storage" numMods="86" userFlags="2">
+  </modifier>
+  <modifier name="MP_Casino_Tunnel" numMods="56" userFlags="2">
+  </modifier>
+  <modifier name="MP_Casino_Tunnel_Transition" numMods="51" userFlags="2">
+  </modifier>
+  <modifier name="bokeh_removebuzz" numMods="4" userFlags="0">
+  </modifier>
+  <modifier name="int_01_blackbox" numMods="80" userFlags="2">
+  </modifier>
+  <modifier name="Yacht_Mission_ThunderRain" numMods="21" userFlags="0">
+  </modifier>
+  <modifier name="Yacht_Mission_NoLig" numMods="34" userFlags="0">
+  </modifier>
+  <modifier name="h4_beachparty" numMods="30" userFlags="0">
+  </modifier>
+  <modifier name="h4_beachparty_day" numMods="20" userFlags="0">
+  </modifier>
+  <modifier name="DLC_Island_Office" numMods="23" userFlags="0">
+  </modifier>
+  <modifier name="dlc_island_vault" numMods="31" userFlags="2">
+  </modifier>
+  <modifier name="h4_sub_vehiclebay" numMods="38" userFlags="2">
+  </modifier>
+  <modifier name="h4_sub_main" numMods="38" userFlags="2">
+  </modifier>
+  <modifier name="h4_sub_commandroom" numMods="35" userFlags="2">
+  </modifier>
+  <modifier name="h4_sub_commandroom_BloomRedux" numMods="36" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Island_Storerooms" numMods="20" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Island_vault_01" numMods="17" userFlags="2">
+  </modifier>
+  <modifier name="Mpheist4_Mansion_exterior" numMods="8" userFlags="0">
+  </modifier>
+  <modifier name="MP_Heist4_Island_Mansion_Ext" numMods="8" userFlags="0">
+  </modifier>
+  <modifier name="MP_Heist4_Docks_Ext" numMods="8" userFlags="0">
+  </modifier>
+  <modifier name="MP_Heist4_Artificial_Amb_Mul" numMods="1" userFlags="0">
+  </modifier>
+  <modifier name="DLC_Island_Storerooms2" numMods="19" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Island_main_hanger" numMods="24" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Island_main_hanger_office" numMods="24" userFlags="2">
+  </modifier>
+  <modifier name="DLC_Island_main_hanger_door" numMods="24" userFlags="0">
+  </modifier>
+  <modifier name="mp_heist4_office_door" numMods="21" userFlags="0">
+  </modifier>
+  <modifier name="MP_Heist4_Storeroom_Door" numMods="19" userFlags="0">
+  </modifier>
+  <modifier name="DLC_Island_vault_01_Door" numMods="17" userFlags="0">
+  </modifier>
+   <modifier name="H4_Hanger_for_CU" numMods="18" userFlags="0">
+  </modifier>
+  <modifier name="underwater_PC_FPS_Heistfix" numMods="1" userFlags="1">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Light" numMods="45" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Dark" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_Sandbox" numMods="132" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_Meet" numMods="132" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Default" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_MethLab" numMods="40" userFlags="2">
+  </modifier>
+  <modifier name="INT_smshop" numMods="38" userFlags="0">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_WildStyle" numMods="45" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Gamer" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Grey" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Nostalgia" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_Americana" numMods="45" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_SmShop_JapTunner" numMods="44" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_Meet_High_Ref" numMods="1" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_Meet_Low_Ref" numMods="1" userFlags="2">
+  </modifier>
+  <modifier name="MP_Heist_Tuner_Sandbox_Low_Ref" numMods="1" userFlags="2">
+  </modifier>
+</timecycle_modifier_data>

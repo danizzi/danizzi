@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- VisualV 1.0.250 -->
+<!-- DO NOT DISTRIBUTE WITHOUT PERMISSION OF THE CREATORS! -->
+<!-- Modified for NaturalVision Remastered -->
+<MainWaterTune>
+  <WaterColor value="0x1A00191C" />
+  <RippleScale value="0.080000" />
+  <OceanFoamScale value="0.040000" />
+  <SpecularFalloff value="1000.000000" />
+  <FogPierceIntensity value="1.100000" />
+  <RefractionBlend value="0.800000" />
+  <RefractionExponent value="0.450000" />
+  <WaterCycleDepth value="10.000000" />
+  <WaterCycleFade value="500.000000" />
+  <WaterLightningDepth value="10.000000" />
+  <WaterLightningFade value="10.000000" />
+  <DeepWaterModDepth value="90.000000" />
+  <DeepWaterModFade value="280.000000" />
+  <GodRaysLerpStart value="0.000000" />
+  <GodRaysLerpEnd value="200.000000" />
+  <DisturbFoamScale value="10.050000" />
+  <FogMin x="-4000.000000" y="-4000.000000" />
+  <FogMax x="4500.000000" y="8000.000000" />
+</MainWaterTune>

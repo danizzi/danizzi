@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CGrassShadowParams_AllLODs>
+  <AllLods>
+    <Item>
+      <fadeNear value="0" />
+      <fadeFar value="0" />
+    </Item>
+    <Item>
+      <fadeNear value="0" />
+      <fadeFar value="0" />
+    </Item>
+    <Item>
+      <fadeNear value="0" />
+      <fadeFar value="0" />
+    </Item>
+  </AllLods>
+</CGrassShadowParams_AllLODs>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HDAO2_ScenePreset>
+  <QualityLevels>
+    <Item>
+      <Quality>Low</Quality>
+      <UseLowRes value="false"/>
+      <UseFilter value="false"/>
+      <Strength value="0" />
+      <RejectRadius value="0" />
+      <AcceptRadius value="0" />
+      <FadeoutDist value="0" />
+      <NormalScale value="0" />
+      <RadiusScale value="0" />
+    </Item>
+    <Item>
+      <Quality>Medium</Quality>
+      <UseLowRes value="false"/>
+      <UseFilter value="false"/>
+      <Strength value="0" />
+      <RejectRadius value="0" />
+      <AcceptRadius value="0" />
+      <FadeoutDist value="0" />
+      <NormalScale value="0" />
+      <RadiusScale value="0" />
+    </Item>
+    <Item>
+      <Quality>High</Quality>
+      <UseLowRes value="false"/>
+      <UseFilter value="false"/>
+      <Strength value="0" />
+      <RejectRadius value="0" />
+      <AcceptRadius value="0" />
+      <FadeoutDist value="0" />
+      <NormalScale value="0" />
+      <RadiusScale value="0" />
+    </Item>
+  </QualityLevels>
+</HDAO2_ScenePreset>

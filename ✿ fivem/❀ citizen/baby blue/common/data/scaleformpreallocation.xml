@@ -1,0 +1,3393 @@
+﻿	<ScaleformPreallocation>
+	
+	<!--INT-->
+
+	
+	<movie name="INT3616464270" peakSize="272" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT298897558" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT1248266663" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT3944478787" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT3078755073" peakSize="48" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT3263636056" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT2325977207" peakSize="48" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT157995960" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="INT3547864363" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT2184801816" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT940373102" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT4207856348" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="INT1860847426" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="INT1797786961" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="INT2240848963" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT1014251895" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT2057322682" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="INT3832685520" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="INT3939330082" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int1791760933" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="24"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="int3651860449" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int3342848779" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int1684803001" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int3800349058" peakSize="224" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int2710314830" peakSize="224" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="int1108333460" peakSize="224" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="INT3212053710" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2747397295" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2429575016" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1251733459" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4018482287" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4102803294" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4072261326" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3669671742" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3659566591" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3635550123" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3587795206" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3114188330" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3090553179" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2266545400" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1979383629" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1914093948" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1912197552" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1704012289" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1304792307" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1244617966" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1159324313" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1075565598" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT836427218" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT753951660" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT710573470" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT611201580" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT350165203" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT232288342" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT340622950" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT854019520" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1357932896" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1517427925" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1549886616" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2182846399" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2305971967" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2834556377" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT638945734" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2513677473" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT3690199222" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT3927577858" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT4159811761" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2261503591" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2458707433" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2737735468" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2968265383" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT4256578670" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT3958348001" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT845947573" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT620595160" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1440278926" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1210273315" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT3944387599" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT551616411" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT263019828" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT559841430" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2753496601" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT3587795341" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1984342821" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1628143791" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1385227178" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1137591845" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2166505740" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2748336282" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2081927167" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1904397061" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1581294721" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1873689758" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4165298046" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3378868878" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT53110295" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1618218397" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1465547626" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1007699158" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2922195218" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3538645646" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4057187178" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT671821784" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT4146606610" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3199741720" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2819004139" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1519556632" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2817836148" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT32192431" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2597375693" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3316312527" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2804392922" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT692684574" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT791892696" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4137818504" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1617951197" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3372243273" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2797016247" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="INT1535812639" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1237123204" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3250942099" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3758337299" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2790242728" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2487784858" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2110875836" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1804354610" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="INT574787398" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT299836641" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2547628714" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="INT299191145" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2183597379" peakSize="160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT18753073" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT29297920" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>						
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>						
+	</movie>
+	<movie name="INT87116549" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT100340708" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="INT101947763" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT169410130" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT225974099" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT395687705" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT551019620" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT607268480" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT672057080" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT720927456" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT755114396" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1045460371" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1313058309" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1314234446" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1457285595" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1477966980" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1575184793" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1649429645" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1658711316" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1667328242" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1681413451" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1724779208" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1753457757" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1847849587" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1850662048" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1911774823" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1932111343" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1944407757" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1947430931" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2005138720" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2014101067" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2060616239" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="INT2081281344" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2092539216" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2243729813" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2309566359" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2349762459" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2445348866" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2468983919" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2537665061" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2556174080" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2604216443" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2604928035" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2700932031" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2707902698" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2785612356" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2814402943" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2825451971" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2885533878" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3026799998" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3063328744" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3224364317" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3273555063" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3399754112" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3425927872" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3432762226" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3627243541" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3699881347" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3713406170" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3816969092" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3995986907" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4187740826" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4213851576" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4215916068" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4242268455" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4268309143" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2769004935" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT100117129" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2534770801" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1338737678" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2959581328" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT325451334" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="int4221947581" peakSize="352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="int877826681" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT222538689" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2725746152" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2473630971" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT1076883030" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="INT2466983751" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT223682799" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+    <movie name="INT3923485432" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+   <movie name="INT3894793287" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT1539880578" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie> 
+	<movie name="INT2264733808" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+    <movie name="INT325451335" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2471697375" peakSize="224" granularity="16" sfalloc="true" >
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="INT1126589261" peakSize="224" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT2700496377" peakSize="208" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT2861009345" peakSize="176" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT2510424210" peakSize="176" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT1502135388" peakSize="176" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT2436346921" peakSize="176" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="INT2614217053" peakSize="176" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="INT1451945473" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2789279894" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3288659403" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4205710902" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT45843946" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT760271382" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2506843673" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT2287809945" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT3611448162" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT604839936" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="INT4014505412" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="int396257289" peakSize="32" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+	</movie>	
+	
+	<movie name="binoculars" peakSize="352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="tv_frame" peakSize="384" granularity="16" sfalloc="true">
+			<SFAlloc><Size value="16"/><Count value="14"/></SFAlloc> 
+			<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc> 
+	</movie>
+	<movie name="breaking_news" peakSize="704" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="34"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="social_club_tv" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_calibration" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="24"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="graphic_design" peakSize="1408" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="128"/><Count value="10"/></SFAlloc>
+	</movie>
+	
+	<movie name="darts_scoreboard" peakSize="544" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+
+	<movie name="camera_gallery" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_alert_popup" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_rankup" peakSize="320" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="newgame" peakSize="352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="startup" peakSize="1760" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="25"/></SFAlloc>
+	</movie>
+	
+	<movie name="hacking_pc" peakSize="2032" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="109"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="camera_shutter" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="cellphone_cutscene" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="14"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="cellphone_alert_popup" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="13"/></SFAlloc>
+	</movie>
+	
+	<movie name="cellphone_alert_preview" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="cellphone_b" peakSize="800" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="10"/></SFAlloc>
+	</movie>
+	
+	<movie name="cellphone_badger" peakSize="1536" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="61"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="cellphone_facade" peakSize="1424" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="73"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		</movie>
+
+	<movie name="cellphone_ifruit" peakSize="1664" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="60"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="cellphone_prologue" peakSize="800" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="37"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="app_trackify" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="22"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="controller_test" peakSize="768" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="countdown" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="desktop_pc" peakSize="1728" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="88"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="ecg_monitor" peakSize="1024" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="14"/></SFAlloc>
+	</movie>
+	<movie name="fib_pc" peakSize="864" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="11"/></SFAlloc>
+	</movie>
+
+	<!--LANG-->
+	<movie name="font_lib_efigs_pc" peakSize="960" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="25"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_efigs_ps4" peakSize="704" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="font_lib_efigs_xboxone" peakSize="704" granularity="16" sfalloc="true">
+	<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_japanese_pc" peakSize="1840" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>	
+		<movie name="font_lib_japanese_ps4" peakSize="1728" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="font_lib_japanese_xboxone" peakSize="1728" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_chinese_pc" peakSize="3520" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="173"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+	</movie>	
+	
+	<movie name="font_lib_chinese_ps4" peakSize="3520" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="173"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+	</movie>	
+	
+	<movie name="font_lib_chinese_xboxone" peakSize="3520" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="173"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="font_lib_korean_pc" peakSize="1392" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="256"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="font_lib_korean_ps4" peakSize="1392" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="256"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="font_lib_korean_xboxone" peakSize="1392" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="256"/><Count value="1"/></SFAlloc>
+	</movie>
+
+
+	
+	<movie name="golf_courses" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_agency" peakSize="1360" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="37"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_docks" peakSize="1328" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="64"/><Count value="14"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_finale" peakSize="1472" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="74"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_jewellery" peakSize="1328" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="70"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_paleto" peakSize="960" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="42"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="heist_endscreen" peakSize="480" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="heli_cam" peakSize="560" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="25"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="hud" peakSize="3680" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="182"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="144"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="hud_drugs_purse_01" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="hud_drugs_purse_02" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	
+	<movie name="hud_drugs_purse_03" peakSize="352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	
+	<movie name="hud_drugs_purse_04" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="hud_cash" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="hud_floating_help_text_1" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="hud_floating_help_text_2" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="hud_cash_change" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="hud_help_text" peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="hud_mission_passed_message" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="hud_mp_cash" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="hud_mp_message" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="hud_reticle" peakSize="224" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="hud_saving" peakSize="468" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="hud_weapon_wheel" peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc> 
+	</movie>
+
+  <movie name="hud_multiplayer_chat" peakSize="448" granularity="16" sfalloc="true">
+     <SFAlloc><Size value="16"/><Count value="23"/></SFAlloc>
+     <SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+     <SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+  </movie>
+  
+	<movie name="instructional_buttons" peakSize="1200" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="70"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="pause_menu_instructional_buttons" peakSize="1200" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="70"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="store_instructional_buttons" peakSize="1536" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="64"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="lifeinvader_presentation" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="loading_text" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="minimap" peakSize="5088" granularity="32" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="140"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="minimap_main_map" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<!--32 players-->
+
+	<movie name="mp_gamer_info" peakSize="3440" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="205"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_icons" peakSize="480" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="mission_complete" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="8"/></SFAlloc>
+	</movie>
+
+	<movie name="mission_quit" peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mission_target_complete" peakSize="320" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="social_club2" peakSize="1888" granularity="16" sfalloc="true" addFonts="font_lib_sc">
+		<SFAlloc><Size value="16"/><Count value="42"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu" peakSize="736" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_header" peakSize="1136" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="38"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	
+	<movie name="pause_menu_sp_content" peakSize="7904" granularity="32" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="202"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	
+	<movie name="pause_mp_menu_weapons" peakSize="736" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+  
+	<movie name="pause_mp_menu_gallery" peakSize="1632" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="23"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_mp_menu_player_card" peakSize="656" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="8"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_player_card" peakSize="656" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="8"/></SFAlloc>
+	</movie>	
+
+	<movie name="pause_menu_store_content" peakSize="1376" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="19"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_matchmaking_card" peakSize="2880" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="168"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_matchmaking_selector" peakSize="720" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>			
+	</movie>
+
+	<movie name="startup_popup_warning" peakSize="480" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+	
+	<movie name="popup_warning" peakSize="1168" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="60"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="custom_warning_screen" peakSize="448" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="race_position" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="rampage" peakSize="1024" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="14"/></SFAlloc>
+	</movie>
+	<movie name="rank_bar" peakSize="304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="remote_sniper_hud" peakSize="736" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="33"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="remote_sniper_loading" peakSize="448" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="saving_footer" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="14"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="sc_leaderboard" peakSize="1936" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="107"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_results_panel" peakSize="1248" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="66"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="security_cam" peakSize="448" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+		
+	<movie name="splash_text" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="shop_menu" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="strip_club" peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="sub_cam" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="sub_pc" peakSize="464" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+	<movie name="taxi_display" peakSize="912" granularity="16" sfalloc="true" addFonts="font_lib_taxi">
+		<SFAlloc><Size value="16"/><Count value="39"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="font_lib_taxi"  peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="teeth_pulling" peakSize="448" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="traffic_cam" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="tv_static" peakSize="272" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="wind_meter" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+
+
+	<movie name="yoga_buttons" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="30"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="yoga_keys" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="30"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="observatory_scope" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="14"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="golf" peakSize="1488" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="83"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="golf_floating_ui" peakSize="560" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="22"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="TENNIS" peakSize="1072" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="46"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MP_MISSION_NAME_FREEMODE" peakSize="592" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="20"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_MISSION_NAME_FREEMODE_1" peakSize="592" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="MP_MISSION_NAME_FREEMODE_2" peakSize="592" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_menu_glare" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="DIGISCANNER" peakSize="704" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_CREW_TAG" peakSize="352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="STUNT_JUMPS" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PLAYER_SWITCH_ALERT" peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="player_switch" peakSize="736" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+	
+	<movie name="player_switch_prologue" peakSize="736" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_shared_components" peakSize="272" granularity="16" sfalloc="true">
+		<SFAlloc> <Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+  	</movie>
+  
+	<movie name="PAUSE_MENU_SHARED_COMPONENTS_MP_01" peakSize="464" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+	</movie>
+
+	<movie name="voting" peakSize="480" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="20"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_pages_crews" peakSize="208" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_INFO" peakSize="256" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_STORE" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_pages_map" peakSize="208" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_STATS" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_GAME" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_pages_settings" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_pages_keymap" peakSize="64" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_MEDAL_FREEMODE" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_AWARD_FREEMODE" peakSize="464" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_UNLOCK_FREEMODE" peakSize="448" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_KILLSTRIP_FREEMODE" peakSize="832" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="11"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_big_message_freemode" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="TATTOO_BUTTONS" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_FRIENDS" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_MISSIONCREATOR" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_GALLERY" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_SAVE" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_CHAR_MOM_DAD" peakSize="208" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+	
+	<movie name="PAUSE_MENU_PAGES_FRIENDS_MP" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="game_stream" peakSize="1312" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="69"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="loadingscreen_startup" peakSize="2512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="87"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="14"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="online_policies" peakSize="3136" granularity="32" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="58"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>	
+
+	<movie name="HUD_PLAYER_SWITCH_ALERT" peakSize="560" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_pages_weapons" peakSize="512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_MISSION_DETAILS_CARD" peakSize="1648" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="83"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="player_switch_stats_panel" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="30"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_FREEMODE_CHECKPOINT_1" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="MP_FREEMODE_CHECKPOINT_2" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_3" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_4" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_5" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_6" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_7" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_8" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_9" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="MP_FREEMODE_CHECKPOINT_10" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	<movie name="PAUSE_MENU_PAGES_CORONA" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_CORONA_LOBBY" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_CORONA_PLAYERS" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_RANK_BAR" peakSize="752" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="9"/></SFAlloc>
+	</movie>
+<!-- Waf WAF--> -->
+	<movie name="letter_scraps" peakSize="576" granularity="16" sfalloc="true" addFonts="font_lib_typewriter">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="psychology_report" peakSize="640" granularity="16" sfalloc="true" addFonts="font_lib_typewriter">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	
+	<movie name="PAUSE_MENU_PAGES_CHAR_SELECT" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="FAME_OR_SHAME_CAMERA" peakSize="468" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+
+	<movie name="PAUSE_MENU_PAGES_CORONA_RACE" peakSize="240" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="STORE_BACKGROUND" peakSize="464" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="PAUSE_MENU_PAGES_AWARDS" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="atm" peakSize="864" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="36"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<!-- WEBSITES -->
+	<movie name="web_browser" peakSize="11904" granularity="64" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="174"/></SFAlloc>
+		<SFAlloc><Size value="128"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="192"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="384"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="www_abstinentamerica_com" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_ACCEPT_D_THE_D_CHAOS_COM" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_altruistsunite_com" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_ammunation_net" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+		<movie name="www_appropriateassociates_com" peakSize="448" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="9"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_bawsaq_com" peakSize="512" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="www_bedevinweston_com" peakSize="368" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="9"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="www_beseecher_net" peakSize="192" granularity="32" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="WWW_BLEETER_BIZ" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_bullsharktestosterone_com" peakSize="128" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_cashfordeaddreams_com" peakSize="288" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_chainsofintimacy_com" peakSize="240" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_classicvinewood_com" peakSize="512" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_creditcardconsolidationkings_com" peakSize="368" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_cultstoppers_com" peakSize="304" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_docktease_com" peakSize="208" granularity="16" sfalloc="true" addFonts="font_lib_web" >
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+		<movie name="www_dr_d_friedlander_com" peakSize="416" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="13"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_dynasty8realestate_com" peakSize="208" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+	<movie name="www_egochaserenergybar_com" peakSize="208" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+	</movie>
+	<movie name="WWW_ELECTROTOKESYSTEM_COM" peakSize="320" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="www_elitastravel_com" peakSize="256" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_epsilonprogram_com" peakSize="288" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_eyefind_info" peakSize="336" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="www_fabienlaroucheyoga_com" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_fameorshame_net" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_fleeca_com" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_fruitcomputers_com" peakSize="272" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_grainoftruth_net" peakSize="208" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_hammersteinfaust_com" peakSize="288" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_himplantsenhancementsurgery_com" peakSize="224" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="WWW_HUSHSMUSH_COM" peakSize="448" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_IWILLSURVIVEITALL_COM" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_jackhowitzer_com" peakSize="240" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_jockcranley_com" peakSize="384" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="WWW_JUNKENERGYDRINK_COM" peakSize="272" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_kungfurainbowlazerforce_com" peakSize="272" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_lcn_d_exchange_com" peakSize="448" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+	</movie>
+	<movie name="www_legendarymotorsport_net" peakSize="224" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="www_lennyavery_d_realty_com" peakSize="320" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="www_lifeinvader_com" peakSize="464" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+ 		<SFAlloc><Size value="64"/><Count value="5"/></SFAlloc>
+ 	</movie>
+	<movie name="www_lossantoscustoms_com" peakSize="224" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_lossantosfreegans_com" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_manopauseadventures_com" peakSize="224" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_maze_d_bank_com" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="WWW_MERRYWEATHERSECURITY_COM" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_MINISTERINMINUTES_COM" peakSize="240" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+		<movie name="www_minotaurfinance_com" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_monetaryscience_us" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="www_mydivinewithin_com" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_myroomonline_net" peakSize="256" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_pandmcycles_com" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_preservexskincream_com" peakSize="336" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_princessrobotbubblegum_com" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_proposition208_com" peakSize="544" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc> 
+		<SFAlloc><Size value="112"/><Count value="1"/></SFAlloc> 
+	</movie>
+	<movie name="WWW_PROPOSITION43_ORG" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_psychicshoutout_com" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_REPUBLICANSPACERANGERS_COM" peakSize="496" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_righteousslaughter7_com" peakSize="240" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_SANANDREASDMV_COM" peakSize="368" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="www_sawaterandpower_com" peakSize="256" granularity="32" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_sixfiguretemps_com" peakSize="288" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_southernsanandreassuperautos_com" peakSize="224" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="WWW_STOPPAYINGYOURMORTGAGE_NET" peakSize="288" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_suemurry_com" peakSize="256" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_swallowco_com" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_taco_d_bomb_com" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_thebankofliberty_com" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	<movie name="www_thechildrenofthemountain_com" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_theinternetisahellhole_com" peakSize="288" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_THEPOWCLEANSE_COM" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_THEREALITYMILL_COM" peakSize="304" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_TOESHOESUSA_COM" peakSize="272" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_toiletcleaneronline_com" peakSize="336" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_universaluniform_net" peakSize="240" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_vanillaunicorn_xxx" peakSize="384" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_vinewoodloglinegenerator_com" peakSize="1056" granularity="32" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="288"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_VISITTHEALAMOSEA_COM" peakSize="224" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_WARSTOCK_D_CACHE_D_AND_D_CARRY_COM" peakSize="240" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="www_whokilledleonorajohnson_com" peakSize="352" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+	</movie>	
+	<movie name="WWW_YOURDEADFAMILY_COM" peakSize="224" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="www_yournewbabysname_com" peakSize="192" granularity="16" sfalloc="true"  addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+	
+	
+	<movie name="midsized_message" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="20"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_heists" peakSize="400" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_sc" peakSize="240" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_shared_components_02" peakSize="224" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="6"/></SFAlloc>
+	</movie>
+
+	<movie name="pause_menu_shared_components_03" peakSize="192" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+	</movie>
+
+	<movie name="APP_JOB_LIST" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="APP_MISSION_STATS_VIEW" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="APP_NUMBERPAD" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="APP_TODO_LIST" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="APP_TODO_VIEW" peakSize="176" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="gtav_online" peakSize="1360" granularity="16" sfalloc="true" platforms="xboxone|ps4"  addFonts="font_lib_editor">
+		<SFAlloc><Size value="16"/><Count value="62"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<!-- TODO: Investigate why this movie takes significantly more memory on PC -->
+	<movie name="gtav_online" peakSize="3024" granularity="32" sfalloc="true" platforms="x64"  addFonts="font_lib_editor">
+		<SFAlloc><Size value="32"/><Count value="30"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="192"/><Count value="1"/></SFAlloc>
+	</movie>	
+	
+	<movie name="HS3F_DIR_COUPLE1" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="HS3F_DIR_COUPLE2" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PHI_Maxim" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARM3_Connected_Lara" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_Home" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_InProgress" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JOS2_ALL_photoGallery" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Connected_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Connected_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Dialing_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Dialing_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="EXL2_Blank_Jimmy" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="EXL2_Connected_Jimmy" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Blank_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Blank_Home" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Blank_InProgress" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Blank_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Connected_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Connected_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Dialing_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Dialing_Michael" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_01_NCallingMartin" peakSize="288"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_02_NCallingMartin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_03_NCallingMartin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_04_NCallingMartin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_05_NCallingMartin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FAM3_All_NCallingMartin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Blank_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Blank_Home" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Blank_InProgress" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Blank_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Connected_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Connected_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Dialing_Franklin" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Dialing_Trevor" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JOS2_01_photoGallery" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JOS2_02_photoGallery" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JOS2_ALL_photoGallery" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MAR1_Tablet_Havier" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="DRE1_Badger_LJ" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="OME1_PowerCell" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FIB3_SteveH" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FIB3_DaveN" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FINB_Connected_Amanda" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Computer_DesktopWide" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Facade_Computer_Desktop43" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Computer_Desktop43" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Computer_DesktopWide" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="LS1_LESTER_EYEFIND" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MIC3_LESTER" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_01_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_02_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_03_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_04_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_05_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_06_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RH2A_07_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Ifruit_Blank_Email" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MAR1_Tablet_HavierHori" peakSize="288"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="FAM2_PlayMusic" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_Lamar" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FINC1_Eyefind" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FINC1_MerrySite" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Lifeinvader_Tablet43" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="Badger_Blank_Lester" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FIB5_LesterText" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JHPB_01_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JHPB_02_Laptop" peakSize="352"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="12"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="JHPB_03_Laptop" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="RCMAUDE_LAPTOP" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="FIB4_EyefindMap" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="LS1_LifeInvader_Updates" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="LS1_LifeInvader_Call" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="LS1_LifeInvader_Home" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARM1_Connected_Baby" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="LS1_Lester_PreEyefind" peakSize="336"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MIC4_BREAKINGNEWS" peakSize="464"  granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+    <movie name="lester_hack_pc" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="2"/></SFAlloc>
+	</movie>
+	<movie name="MP_ONLINE_LIST_CARD" peakSize="448" granularity="16" sfalloc="true" >
+		<SFAlloc><Size value="32"/><Count value="10"/></SFAlloc>
+	</movie>
+
+	<movie name="MP_VEHICLE_INFO" peakSize="320" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+	</movie>
+
+	<movie name="STORE_BLACKOUT" peakSize="400" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_web" peakSize="816" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="13"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="13"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="144"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="busy_spinner" peakSize="1376" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="81"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="OPENING_CREDITS" peakSize="816" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="26"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="font_lib_typewriter"  peakSize="432" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_car_stats_01" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_02" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_03" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_04" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_05" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_06" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_07" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_08" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_09" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_10" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_11" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_12" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_13" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_14" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_15" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_16" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_17" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_18" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_19" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="mp_car_stats_20" peakSize="416" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="16"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="mp_next_job_selection" peakSize="3808" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="205"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="6"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="144"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="mp_celebration" peakSize="912" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="mp_celebration_bg" peakSize="912" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="mp_celebration_fg" peakSize="912" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="mp_mm_card_freemode" peakSize="2992" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="165"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+
+	<movie name="TEXT_INPUT_BOX" peakSize="1056" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="55"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="textfield" peakSize="1280" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="70"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="MOUSE_POINTER" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="DASHBOARD" peakSize="784" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="37"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="MP_SPECTATOR_OVERLAY" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="48"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		</movie>
+		
+	<movie name="aircraft_dials" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+		
+	<movie name="dials_lazer" peakSize="656" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="36"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>			
+					
+	<movie name="multiplayer_chat" peakSize="1024" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="64"/><Count value="14"/></SFAlloc>
+	</movie>
+	
+	<movie name="PAUSE_MENU_SPCHAR_OVERLAYS" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	
+	<movie name="PLAYER_NAME_01" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_02" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_03" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_04" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_05" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_06" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_07" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_08" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_09" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_10" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_11" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_12" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_13" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_14" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="PLAYER_NAME_15" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="gamepad_calibration" peakSize="656" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="25"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="TATTOO_KEYS" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="drilling" peakSize="272" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MUGSHOT_BOARD_01" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="MUGSHOT_BOARD_02" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="DIGITAL_CAMERA" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="new_editor" peakSize="15232" granularity="32" sfalloc="true" platforms="x64">
+		<SFAlloc><Size value="32"/><Count value="230"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="288"/><Count value="1"/></SFAlloc>
+	</movie>		
+	<movie name="new_editor" peakSize="14624" granularity="32" sfalloc="true" platforms="xboxone|ps4">
+		<SFAlloc><Size value="32"/><Count value="230"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="160"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="288"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="COLOUR_SWITCHER_01" peakSize="1680" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="83"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="COLOUR_SWITCHER_02" peakSize="1680" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="83"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="HAIR_COLOUR_CARD" peakSize="784" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="44"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="MP_SPECTATOR_CARD" peakSize="3728" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="204"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="watermark" peakSize="368" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="20"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="landing_page" peakSize="528" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="28"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="font_lib_editor" peakSize="384" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="4"/></SFAlloc>
+		<SFAlloc><Size value="144"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+	</movie>
+	<movie name="TextCanvas" peakSize="1584" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="61"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>		
+	<movie name="WWW_BENNYSORIGINALMOTORWORKS_COM" peakSize="144" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="YACHT_NAME" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="YACHT_NAME_STERN" peakSize="288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="YACHT_GAMERNAME" peakSize="592" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="20"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="securoserv" peakSize="2352" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="132"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_DYNASTY8EXECUTIVEREALTY_COM" peakSize="160" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="8"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="power_play" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="organisation_name" peakSize="368" granularity="16" sfalloc="true" addFonts="font_lib_org">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="warehouse" peakSize="1104" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="59"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="grid_layout" peakSize="2800" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="147"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="dont_cross_the_line" peakSize="1024" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="42"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="4"/></SFAlloc>
+	</movie>	
+	<movie name="font_lib_org" peakSize="816" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="13"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="13"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="144"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="race_message" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="foreclosures_maze_d_bank_com" peakSize="400" granularity="16" sfalloc="true" addFonts="font_lib_web">
+		<SFAlloc><Size value="16"/><Count value="15"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="biker_businesses" peakSize="2512" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="142"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="clubhouse_name" peakSize="368" granularity="16" sfalloc="true" addFonts="font_lib_org">
+		<SFAlloc><Size value="16"/><Count value="17"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="power_play_day_night" peakSize="544" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="27"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="BIKER_MISSION_WALL" peakSize="784" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="39"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="darts_scoreboard_biker" peakSize="544" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="64"/><Count value="6"/></SFAlloc>
+	</movie>
+	<movie name="power_play_biker" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="power_play_vehicle" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="power_play_turf" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="APP_SECUROSERV_HACKING" peakSize="112" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+	</movie>
+	<movie name="import_export_warehouse" peakSize="3856" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="229"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="blimp_text" peakSize="480" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="21"/></SFAlloc>	
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>	
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>	
+	</movie>
+	<movie name="power_play_special_races" peakSize="848" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="40"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>	
+	<movie name="DISRUPTION_LOGISTICS" peakSize="2816" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="162"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="COVERT_OPS" peakSize="1952" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="109"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="POWER_PLAY_GENERIC" peakSize="912" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="50"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="turret_cam" peakSize="608" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="33"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="hangar_cargo" peakSize="1424" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="84"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="font_lib_chinesesimp_PC" peakSize="3520" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="173"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="96"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="dials_lazer_vintage" peakSize="656" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="36"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="iaa_heist_board" peakSize="2336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="124"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="5"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="orbital_cannon_map" peakSize="480" granularity="16" sfalloc="true">	
+		<SFAlloc><Size value="16"/><Count value="25"/></SFAlloc>	
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>	
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>	
+	</movie>
+	<movie name="orbital_cannon_cam" peakSize="1312" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="77"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="morgue_laptop" peakSize="320" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="18"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="starter_pack_browser" peakSize="2288" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="131"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="heist2_celebration" peakSize="896" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="heist2_celebration_fg" peakSize="896" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="heist2_celebration_bg" peakSize="896" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="35"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="NIGHTCLUB" peakSize="2160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="123"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="hacker_truck_desktop" peakSize="1392" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="82"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="drone_cam" peakSize="912" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="50"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="DANCER" peakSize="496" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="24"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="bank_job_login" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="party_bus" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="38"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="dlc_sol" peakSize="208" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_ARENAWAR_TV" peakSize="144" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="7"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARENA_CAREER_WALL" peakSize="1040" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+        <SFAlloc><Size value="16"/><Count value="60"/></SFAlloc>
+        <SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+        <SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+    </movie>
+	<movie name="SPIN_THE_WHEEL" peakSize="800" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="45"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARENA_GUN_CAM_APOCALYPSE" peakSize="640" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="33"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARENA_GUN_CAM_CONSUMER" peakSize="640" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="33"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARENA_GUN_CAM_SCIFI" peakSize="672" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="37"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="dlc_arena_int2" peakSize="208" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="11"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="WWW_THEDIAMONDCASINOANDRESORT_COM" peakSize="240" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="10"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="horse_racing_wall" peakSize="3200" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="139"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="horse_racing_console" peakSize="2096" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="114"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="3"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="slot_machine" peakSize="336" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="19"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARCADE_MANAGEMENT" peakSize="2304" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="137"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARCADE_MANAGEMENT" peakSize="2160" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="130"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="ARCADE_BUSINESS_HUB" peakSize="1120" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="65"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="CASINO_HEIST_BOARD_SETUP" peakSize="1888" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="106"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="CASINO_HEIST_BOARD_PREP" peakSize="2048" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="104"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="CASINO_HEIST_BOARD_FINALE" peakSize="1680" granularity="16" sfalloc="true" addFonts="font_lib_heists">
+		<SFAlloc><Size value="16"/><Count value="93"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+		<SFAlloc><Size value="80"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="VAULT_DRILL" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="36"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+	<movie name="VAULT_LASER" peakSize="688" granularity="16" sfalloc="true">
+		<SFAlloc><Size value="16"/><Count value="36"/></SFAlloc>
+		<SFAlloc><Size value="32"/><Count value="2"/></SFAlloc>
+		<SFAlloc><Size value="48"/><Count value="1"/></SFAlloc>
+	</movie>
+</ScaleformPreallocation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- https://discord.gg/Zk8FKTUyPA -->
+<!-- boubalourson#0667 -->

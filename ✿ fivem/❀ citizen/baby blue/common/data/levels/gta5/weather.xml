@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CContentsOfWeatherXmlFile>
+  <VersionNumber value="1.000000"/>
+  <WeatherGpuFx>
+  </WeatherGpuFx>
+  <WeatherTypes>
+	<Item>
+	<Name>EXTRASUNNY</Name>
+  <Sun value="0.0"/>
+	<Cloud value="0.0"/>
+	<WindMin value="0.0"/>
+	<WindMax value="0.0"/>
+	<Rain value="0.0"/>
+	<Wetness value="0.0"/>
+	<Snow value="0.0"/>
+	<SnowMist value="0.0"/>
+	<Fog value="0.0"/>
+    <RippleBumpiness value="0.0" />
+    <RippleMinBumpiness value="0.0" />
+    <RippleMaxBumpiness value="0.0" />
+    <RippleBumpinessWindScale value="0.0" />
+    <RippleScale value="0.0" />
+    <RippleSpeed value="0.0" />
+    <RippleVelocityTransfer value="0.0" />
+    <OceanBumpiness value="0.0" />
+    <DeepOceanScale value="0.0" />
+    <OceanNoiseMinAmplitude value="0.0" />
+    <OceanWaveAmplitude value="0.0" />
+    <ShoreWaveAmplitude value="0.0" />
+    <OceanWaveWindScale value="0.0" />
+    <ShoreWaveWindScale value="0.0" />
+    <OceanWaveMinAmplitude value="0.0" />
+    <ShoreWaveMinAmplitude value="0.0" />
+    <OceanWaveMaxAmplitude value="0.0" />
+    <ShoreWaveMaxAmplitude value="0.0" />
+    <OceanFoamIntensity value="0.0" />
+    <OceanFoamScale value="0.0" />
+    <RippleDisturb value="0.0" />
+    <Lightning value="false"/>
+	<Sandstorm value="false"/>
+	<OldSettingName>-</OldSettingName>
+	<DropSettingName></DropSettingName>
+	<MistSettingName>-</MistSettingName>
+	<GroundSettingName>-</GroundSettingName>
+    <TimeCycleFilename>COMMON:/DATA/TIMECYCLE/W_EXTRASUNNY.xml</TimeCycleFilename>
+	<CloudSettingsName>HEAVYclouds</CloudSettingsName>
+  </Item>
+  </WeatherTypes>
+  <WeatherCycles>
+    <Item>
+      <CycleName>EXTRASUNNY</CycleName>
+      <TimeMult value="1" />
+    </Item>
+  </WeatherCycles>
+</CContentsOfWeatherXmlFile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<timecycle_modifier_data version="1.000000">
+	<modifier name="polluted" numMods="0" userFlags="0" />
+	</modifier>
+	<modifier name="nextgen" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="lightning" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="torpedo" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="NEW_shrinksOffice" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="Facebook_NEW" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="NEW_trevorstrailer" numMods="25" userFlags="0"> 
+	</modifier>
+	<modifier name="New_sewers" numMods="55" userFlags="0">
+	</modifier>
+	<modifier name="facebook_serveroom" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="V_Office_smoke_Fire" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="V_FIB_IT3_alt5" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="int_Hospital_DM" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="int_Hospital2_DM" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="int_Barber1" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="int_tattoo_B" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="glasses_black" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="glasses_brown" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="glasses_blue" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="glasses_red" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="glasses_green" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="glasses_yellow" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="glasses_purple" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="glasses_indigo" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="glasses_pink" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="glasses_orange" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="WATER_ID2_21" numMods="1" userFlags="0"> 
+	</modifier>
+	<modifier name="WATER_RichmanStuntJump" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="CH3_06_water" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="WATER_refmap_hollywoodlake" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="WATER_CH2_06_01_03" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="WATER_CH2_06_02" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="WATER_CH2_06_04" numMods="2" userFlags="0">
+	</modifier>
+</timecycle_modifier_data>

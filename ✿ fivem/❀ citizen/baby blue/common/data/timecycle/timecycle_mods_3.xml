@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<timecycle_modifier_data version="1.000000">
+	<modifier name="RemoteSniper" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="V_Office_smoke" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="V_Office_smoke_ext" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="V_FIB_IT3" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="V_FIB_IT3_alt" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="V_FIB_stairs" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="v_abattoir" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="V_Abattoir_Cold" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="v_recycle" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="v_strip3" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="v_strpchangerm" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="v_jewel2" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="v_foundry" numMods="63" userFlags="0">
+	</modifier>
+	<modifier name="V_Metro_station" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="v_metro" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="V_Metro2" numMods="15" userFlags="0">
+	</modifier>
+	<modifier name="v_torture" numMods="63" userFlags="0">
+	</modifier>
+	<modifier name="v_sweat" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="v_sweat_entrance" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="v_sweat_NoDirLight" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="Barry1_Stoned" numMods="21" userFlags="0">
+	</modifier>
+	<modifier name="v_rockclub" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="v_armybase" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="v_michael" numMods="21" userFlags="0">
+	</modifier>
+	<modifier name="v_michael_lounge" numMods="31" userFlags="0"> 
+	</modifier>
+	<modifier name="v_janitor" numMods="21" userFlags="0">
+	</modifier>
+	<modifier name="int_amb_mult_large" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_large" numMods="16" userFlags="0"> 
+	</modifier>
+	<modifier name="ext_int_extlight_large" numMods="13" userFlags="0">	
+	</modifier>
+	<modifier name="int_extlight_small" numMods="8" userFlags="0"> 
+	</modifier>
+	<modifier name="int_extlight_small_clipped" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_large_fog" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_small_fog" numMods="9" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_none" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_none_dark" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_none_dark_fog" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="int_extlight_none_fog" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="int_clean_extlight_large" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="int_clean_extlight_small" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="int_clean_extlight_none" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="prologue" numMods="10" userFlags="0">
+	</modifier>
+	<modifier name="vagos_extlight_small" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="FinaleBank" numMods="28" userFlags="0">
+	</modifier>
+	<modifier name="FinaleBankMid" numMods="28" userFlags="0">
+	</modifier>
+	<modifier name="v_cashdepot" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="V_Solomons" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="int_methlab_small_day" numMods="7" userFlags="0">
+	</modifier>
+	<modifier name="int_methlab_small" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="int_Lost_small" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="int_Lost_none" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="int_ControlTower_small" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="int_ControlTower_none" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="int_dockcontrol_small" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="int_hanger_small" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="int_hanger_none" numMods="18" userFlags="0">
+	</modifier>
+	<modifier name="int_cluckinfactory_small" numMods="30" userFlags="0">
+	</modifier>
+	<modifier name="int_cluckinfactory_none" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="int_FranklinAunt_small" numMods="21" userFlags="0">
+	</modifier>
+	<modifier name="stc_franklinsHouse" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="stc_coroners" numMods="16" userFlags="0">
+	</modifier>
+	<modifier name="stc_trevors" numMods="40" userFlags="0"> 
+	</modifier>
+	<modifier name="stc_deviant_lounge" numMods="10" userFlags="0">
+	</modifier>
+	<modifier name="stc_deviant_bedroom" numMods="11" userFlags="0">
+	</modifier>
+	<modifier name="int_carshowroom" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="int_Farmhouse_small" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="int_Farmhouse_none" numMods="26" userFlags="0">
+	</modifier>
+	<modifier name="int_carmod_small" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="SP1_03_drawDistance" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="SP2_03_drawDistance" numMods="5" userFlags="0">
+	</modifier>
+	<modifier name="int_clotheslow_large" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="v_bahama" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="gunclub" numMods="40" userFlags="0">
+	</modifier>
+	<modifier name="int_GasStation" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="int_GasStation_lighting" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="int_GasStation_night_lighting" numMods="17" userFlags="0">
+	</modifier>
+	<modifier name="int_GasStation_exterior_lighting" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="Shop247" numMods="38" userFlags="0">
+	</modifier>
+	<modifier name="Shop247_none" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="gabz_tuners" numMods="45" userFlags="0">
+	</modifier>
+	<modifier name="gabz_tuners_night" numMods="44" userFlags="0">
+	</modifier>
+	<modifier name="PoliceStation" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="PoliceStationLighting" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="PoliceStationDark" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="Hicksbar" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="cBank_back" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="cBank_front" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="int_office_Lobby" numMods="23" userFlags="0">
+	</modifier>
+	<modifier name="int_office_LobbyHall" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="SheriffStation" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="LifeInvaderLOD" numMods="35" userFlags="0">	
+	</modifier>
+	<modifier name="int_motelroom" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="metro" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="int_ClothesHi" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="FIB_5" numMods="22" userFlags="0">
+	</modifier>
+	<modifier name="int_chopshop" numMods="27" userFlags="0">
+	</modifier>
+	<modifier name="int_tattoo" numMods="33" userFlags="0">
+	</modifier>
+	<modifier name="gunstore" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="int_Hospital_Blue" numMods="47" userFlags="0">
+	</modifier>
+	<modifier name="FIB_6" numMods="45" userFlags="0">
+	</modifier>
+	<modifier name="FIB_B" numMods="20" userFlags="0">
+	</modifier>
+	<modifier name="FIB_A" numMods="32" userFlags="0">
+	</modifier>
+	<modifier name="lab_none" numMods="19" userFlags="0">
+	</modifier>
+	<modifier name="lab_none_dark" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="lab_none_dark_fog" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="MP_Garage_L" numMods="42" userFlags="0">
+	</modifier>
+	<modifier name="MP_Studio_Lo" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="StadLobby" numMods="35" userFlags="0">
+	</modifier>
+	<modifier name="Hanger_INTmods" numMods="29" userFlags="0">
+	</modifier>
+	<modifier name="MPApartHigh" numMods="49" userFlags="0">
+	</modifier>
+	<modifier name="int_Hospital_BlueB" numMods="46" userFlags="0">
+	</modifier>
+	<modifier name="int_tunnel_none_dark" numMods="34" userFlags="0">
+	</modifier>
+	<modifier name="MP_lowgarage" numMods="36" userFlags="0">
+	</modifier>
+	<modifier name="MP_MedGarage" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="shades_yellow" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="shades_pink" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="Mp_apart_mid" numMods="37" userFlags="0">
+	</modifier>
+	<modifier name="yell_tunnel_nodirect" numMods="31" userFlags="0">
+	</modifier>
+	<modifier name="int_carrier_hanger" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="int_carrier_stair" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="int_carrier_rear" numMods="25" userFlags="0">
+	</modifier>
+	<modifier name="int_carrier_control" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="int_carrier_control_2" numMods="24" userFlags="0">
+	</modifier>
+	<modifier name="AP1_01_C_NoFog" numMods="3" userFlags="0">
+	</modifier>
+	<modifier name="AP1_01_B_IntRefRange" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="rply_saturation" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="rply_saturation_neg" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="rply_vignette" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="rply_vignette_neg" numMods="6" userFlags="0">
+	</modifier>
+	<modifier name="rply_contrast" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="rply_contrast_neg" numMods="12" userFlags="0">
+	</modifier>
+	<modifier name="rply_brightness" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="rply_brightness_neg" numMods="2" userFlags="0">
+	</modifier>
+	<modifier name="rply_motionblur" numMods="1" userFlags="0">
+	</modifier>
+	<modifier name="V_CIA_Facility" numMods="56" userFlags="0">
+	</modifier>
+</timecycle_modifier_data>

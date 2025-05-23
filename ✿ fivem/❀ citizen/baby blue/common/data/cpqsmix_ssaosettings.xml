@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CPQSMix_Parameters>
+  <CPRelativeStrength value="0.000000" />
+  <QSRelativeStrength value="0.000000" />
+  <QSFadeInStart value="0.000000" />
+  <QSFadeInEnd value="0.000000" />
+  <QSRadius value="0.000000" />
+  <CPRadius value="0.000000" />
+  <CPNormalOffset value="0.000000" />
+</CPQSMix_Parameters>

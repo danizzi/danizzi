@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- neiv PACKv4 -->
+<rage__tcInstBoxTypeLoader>
+  <boxTypes>
+    <Item>
+      <name>1845292264</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>419767120</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>254673580</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1113456618</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-715048758</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1844113944</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-188717881</name>
+      <modifier>StreetLightingTraffic</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>664956610</name>
+      <modifier>StreetLightingJunction</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1456877810</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-2138249340</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1890245208</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1733275542</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1467454152</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1715600646</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1426493390</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-846181866</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1920354262</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-689905224</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1242539337</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1105062255</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1609496462</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1210024890</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-1800068182</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-780084788</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>2094590372</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1626537032</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>1415155472</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+    <Item>
+      <name>-179132644</name>
+      <modifier>StreetLighting</modifier>
+      <aabb>
+        <min x="0.0" y="0.0" z="0.0" w="0.0" />
+        <max x="0.0" y="0.0" z="0.0" w="0.0" />
+      </aabb>
+      <percentage value="0.000000" />
+      <range value="0.000000" />
+      <startHour value="0" />
+      <endHour value="0" />
+    </Item>
+  </boxTypes>
+</rage__tcInstBoxTypeLoader>
