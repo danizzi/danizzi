@@ -19,7 +19,7 @@
 ## 🎵
 <td align="center">
 <a href="https://open.spotify.com/playlist/0yyQzAEVglyYicaDFaTzUZ?si=05f9ec4c37334d78">
-<strong>Listen to cool music</strong>
+<strong>Click and enjoy!</strong>
 <br />
 <br />
 <p>
