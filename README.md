@@ -27,5 +27,5 @@
 </a>
 </p>
 
-![Visitas](https://api.countapi.xyz/hit/danizzi.github.io/visits?style=plastic&color=800080&labelColor=4B0082&label=Visitas)
+![Visitor Count](https://profile-counter.glitch.me/danizzi/count.svg)
 
