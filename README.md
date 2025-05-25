@@ -29,4 +29,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/danizzi/count.svg)
 
-![v](https://visitor-badge.glitch.me/badge?page_id=danizzi.repo.id&left_color=purple&right_color=purple)
+![v](https://visitor-badge.glitch.me/badge?page_id=danizzi&left_color=purple&right_color=purple)
