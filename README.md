@@ -27,5 +27,5 @@
 </a>
 </p>
 
-![Visitas](https://img.shields.io/badge/dynamic/json?label=visitas&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdanizzi.github.io%2Fvisits&color=800080&labelColor=4B0082&style=plastic)
+![Visitas](https://api.countapi.xyz/hit/danizzi.github.io/visits?style=plastic&color=800080&labelColor=4B0082&label=Visitas)
 
