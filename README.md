@@ -43,7 +43,7 @@ Lines of Code on GitHub:.............................. 21
 <br />
 <br />
 <p>
-<img height="200" alt="Music" src="https://github.com/user-attachments/assets/62eb671c-704a-44f7-8524-1262699b550e"> 
+<img height="175" alt="Music" src="https://github.com/user-attachments/assets/62eb671c-704a-44f7-8524-1262699b550e"> 
 </a>
 </p>
 </p>
