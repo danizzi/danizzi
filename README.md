@@ -37,7 +37,7 @@ Lines of Code on GitHub:.............................. 21
 ## 
 
 <p>
-<a href="https://open.spotify.com/playlist/0yyQzAEVglyYicaDFaTzUZ?si=05f9ec4c37334d78">
+<a href="[https://open.spotify.com/playlist/0yyQzAEVglyYicaDFaTzUZ?si=05f9ec4c37334d78](https://open.spotify.com/playlist/0y6FIyL5YeT1z1dgfBbNxC?si=7a4e51501fac4f64)">
 <strong>Click and enjoy!</strong>
 <br />
 <br />
