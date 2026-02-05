@@ -23,7 +23,6 @@ Repos:....... 2 {Contributed: 1} | Stars:.............. 0
 Followers:... 1 (my mother)      | Commits:............ 2                   
 Lines of Code on GitHub:.............................. 21
 ```
-![Visitor Count](https://profile-counter.glitch.me/danizzi/count.svg)
 
 ## 
 
